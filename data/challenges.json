@@ -1,0 +1,5 @@
+[
+  "Write a Python script that pings a website every 10 minutes.",
+  "Use Nmap to scan your local network and log all active IPs.",
+  "Build a simple login page and implement basic input validation."
+]
