@@ -29,3 +29,16 @@ ${challenge}
 `;
 
 fs.writeFileSync("README.md", content);
+
+function getRandomFrom(file) {
+  try {
+    const data = JSON.parse(fs.readFileSync(path.join(__dirname, "..", "data", file), "utf-8"));
+    if (!Array.isArray(data) || data.length === 0) {
+      throw new Error(`${file} is empty or not a valid array`);
+    }
+    return data[Math.floor(Math.random() * data.length)];
+  } catch (err) {
+    console.error(`❌ Error reading ${file}:`, err.message);
+    return "⚠️ Error loading data.";
+  }
+}
