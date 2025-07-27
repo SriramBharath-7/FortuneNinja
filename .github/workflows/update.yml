@@ -1,32 +1,31 @@
-name: ⏰ Daily Fortune Drop
+name: 🌙 Daily Fortune Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at 00:00 UTC
+    - cron: '0 0 * * *'  # Every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: "18"
+          node-version: '18'
 
-      - name: Run Fortune Generator
-        run: |
-          npm install
-          node scripts/generate.js
+      - name: Run generate.js
+        run: node scripts/generate.js
 
-      - name: Commit & Push
+      - name: Push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config --global user.name "Fortune Ninja Bot"
+          git config --global user.email "ninja@fortune.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
           git add README.md
-          git commit -m "🔮 Daily fortune update" || echo "No changes to commit"
+          git commit -m "🔮 Daily fortune update"
           git push
 
