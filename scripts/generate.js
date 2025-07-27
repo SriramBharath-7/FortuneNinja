@@ -17,7 +17,7 @@ const challenge = getRandomFrom("challenges.json");
 
 const gifBanner = `
 <p align="center">
-  <img src="assets/yin-yang.gif" width="150" alt="Yin Yang" />
+  <img src="./img/yinnyang.gif" width="150" alt="Yin Yang" />
 </p>
 `;
 
