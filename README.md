@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Use a separate device/account for experimenting or testing.
 
 🧠 Challenge of the Day:
-Research the importance of patch management.
+Understand what a port scan is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/7/2025, 10:34:34 pm
+🕒 Last updated: 28/7/2025, 10:36:54 pm
