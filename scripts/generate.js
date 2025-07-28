@@ -29,13 +29,13 @@ const content = `
 
 \`\`\`bash
 📜 Quote of the Day:
-"${quote}"
+"${quotes}"
 
 🛡️ Cyber Tip:
-${tip}
+${cybertip}
 
 🧠 Challenge of the Day:
-${challenge}
+${challenges}
 \`\`\`
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
