@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Use a separate device/account for experimenting or testing.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Understand what a port scan is.
+Sign up for HaveIBeenPwned and check if your email is in a data breach.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/7/2025, 10:36:54 pm
+🕒 Last updated: 29/7/2025, 8:03:54 am
