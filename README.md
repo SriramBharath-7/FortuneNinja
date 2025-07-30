@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
+"Little things make big days."
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Sign up for HaveIBeenPwned and check if your email is in a data breach.
+Explore the OWASP Top 10 web vulnerabilities.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/7/2025, 8:03:54 am
+🕒 Last updated: 30/7/2025, 7:55:32 am
