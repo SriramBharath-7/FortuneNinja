@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Keep your browser extensions to a minimum.
+Keep your BIOS/UEFI firmware updated.
 
 🧠 Challenge of the Day:
-Explore the OWASP Top 10 web vulnerabilities.
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/7/2025, 7:55:32 am
+🕒 Last updated: 31/7/2025, 7:54:43 am
