@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Keep your BIOS/UEFI firmware updated.
+Enable two-factor authentication wherever possible.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/7/2025, 7:54:43 am
+🕒 Last updated: 1/8/2025, 8:06:23 am
