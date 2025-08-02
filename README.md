@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Enable two-factor authentication wherever possible.
+Never post screenshots of sensitive dashboards or tools.
 
 🧠 Challenge of the Day:
-Understand how HTTPS works.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/8/2025, 8:06:23 am
+🕒 Last updated: 2/8/2025, 7:48:55 am
