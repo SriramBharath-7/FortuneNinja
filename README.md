@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
+"If opportunity doesn’t knock, build a door. – Milton Berle"
 
 🛡️ Cyber Tip:
-Never post screenshots of sensitive dashboards or tools.
+Monitor your digital footprint with search engines.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/8/2025, 7:48:55 am
+🕒 Last updated: 3/8/2025, 8:04:53 am
