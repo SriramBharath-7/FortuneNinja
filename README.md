@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If opportunity doesn’t knock, build a door. – Milton Berle"
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Monitor your digital footprint with search engines.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/8/2025, 8:04:53 am
+🕒 Last updated: 4/8/2025, 8:04:13 am
