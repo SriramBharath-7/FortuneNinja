@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
+"Make each day your masterpiece. – John Wooden"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Regularly delete unused accounts.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/8/2025, 8:04:13 am
+🕒 Last updated: 5/8/2025, 7:57:50 am
