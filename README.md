@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"Peace begins with a smile. – Mother Teresa"
 
 🛡️ Cyber Tip:
 Regularly delete unused accounts.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/8/2025, 7:57:50 am
+🕒 Last updated: 6/8/2025, 7:56:04 am
