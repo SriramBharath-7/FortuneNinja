@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Peace begins with a smile. – Mother Teresa"
+"You didn’t come this far to only come this far."
 
 🛡️ Cyber Tip:
-Regularly delete unused accounts.
+Use secure messaging apps with end-to-end encryption.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Learn what social engineering is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/8/2025, 7:56:04 am
+🕒 Last updated: 7/8/2025, 7:56:21 am
