@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You didn’t come this far to only come this far."
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Use secure messaging apps with end-to-end encryption.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/8/2025, 7:56:21 am
+🕒 Last updated: 8/8/2025, 7:56:06 am
