@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Research how password hashing works.
+Set a strong, unique password for one of your old accounts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/8/2025, 7:56:06 am
+🕒 Last updated: 9/8/2025, 7:38:16 am
