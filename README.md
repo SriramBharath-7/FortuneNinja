@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+Keep your software and OS updated regularly.
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/8/2025, 7:55:54 am
+🕒 Last updated: 12/8/2025, 7:37:46 am
