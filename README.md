@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
 
 🛡️ Cyber Tip:
-Use biometric authentication for additional security.
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Understand phishing vs spear-phishing.
+Learn how to use the `ping` and `tracert` command.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/8/2025, 7:40:39 am
+🕒 Last updated: 16/8/2025, 7:34:50 am
