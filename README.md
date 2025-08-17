@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
+"Success doesn’t just find you. You have to go out and get it."
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Learn how to use the `ping` and `tracert` command.
+Understand what data leakage is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/8/2025, 7:34:50 am
+🕒 Last updated: 17/8/2025, 7:52:34 am
