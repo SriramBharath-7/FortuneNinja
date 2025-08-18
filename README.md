@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success doesn’t just find you. You have to go out and get it."
+"Energy and persistence conquer all things. – Benjamin Franklin"
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Use sandbox environments for testing software.
 
 🧠 Challenge of the Day:
-Understand what data leakage is.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/8/2025, 7:52:34 am
+🕒 Last updated: 18/8/2025, 7:52:51 am
