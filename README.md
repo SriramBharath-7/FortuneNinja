@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The harder you work for something, the greater you’ll feel when you achieve it."
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Run occasional malware scans, even if you feel safe.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/8/2025, 7:33:27 am
+🕒 Last updated: 20/8/2025, 7:31:29 am
