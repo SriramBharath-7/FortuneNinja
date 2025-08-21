@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Secure your GitHub repos with SSH keys.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Watch a video explaining SQL Injection.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/8/2025, 7:31:29 am
+🕒 Last updated: 21/8/2025, 7:30:08 am
