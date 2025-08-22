@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"Success doesn’t just find you. You have to go out and get it."
 
 🛡️ Cyber Tip:
-Secure your GitHub repos with SSH keys.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Watch a video explaining SQL Injection.
+Read an article on the difference between viruses and worms.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/8/2025, 7:30:08 am
+🕒 Last updated: 22/8/2025, 7:30:56 am
