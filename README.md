@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success doesn’t just find you. You have to go out and get it."
+"In a gentle way, you can shake the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+If something feels off, trust your instincts.
 
 🧠 Challenge of the Day:
-Read an article on the difference between viruses and worms.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/8/2025, 7:30:56 am
+🕒 Last updated: 23/8/2025, 7:26:37 am
