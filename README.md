@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-If something feels off, trust your instincts.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/8/2025, 7:26:37 am
+🕒 Last updated: 24/8/2025, 7:42:44 am
