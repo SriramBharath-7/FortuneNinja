@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The mind is everything. What you think you become. – Buddha"
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 🛡️ Cyber Tip:
 Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Explore how companies handle incident response.
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/8/2025, 7:42:44 am
+🕒 Last updated: 25/8/2025, 7:36:01 am
