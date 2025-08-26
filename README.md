@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The harder you work for something, the greater you’ll feel when you achieve it."
+"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Use browser profiles to separate work and personal.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/8/2025, 7:36:01 am
+🕒 Last updated: 26/8/2025, 7:31:59 am
