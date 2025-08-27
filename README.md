@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"
+"The secret of getting ahead is getting started. – Mark Twain"
 
 🛡️ Cyber Tip:
-Use browser profiles to separate work and personal.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Read about session hijacking.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/8/2025, 7:31:59 am
+🕒 Last updated: 27/8/2025, 7:28:07 am
