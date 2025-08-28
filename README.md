@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The secret of getting ahead is getting started. – Mark Twain"
+"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/8/2025, 7:28:07 am
+🕒 Last updated: 28/8/2025, 7:27:23 am
