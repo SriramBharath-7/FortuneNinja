@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/8/2025, 7:27:23 am
+🕒 Last updated: 29/8/2025, 7:27:16 am
