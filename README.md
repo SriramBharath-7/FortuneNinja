@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Either you run the day or the day runs you. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Read about zero-day vulnerabilities.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/8/2025, 7:27:16 am
+🕒 Last updated: 30/8/2025, 7:21:47 am
