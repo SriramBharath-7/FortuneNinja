@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Either you run the day or the day runs you. – Jim Rohn"
+"Don’t let yesterday take up too much of today. – Will Rogers"
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Know how to use the `whois` command.
 
 🧠 Challenge of the Day:
-Read about zero-day vulnerabilities.
+Learn how two-factor authentication (2FA) works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/8/2025, 7:21:47 am
+🕒 Last updated: 31/8/2025, 7:33:22 am
