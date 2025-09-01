@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t let yesterday take up too much of today. – Will Rogers"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Know how to use the `whois` command.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Learn how two-factor authentication (2FA) works.
+Learn how to recognize a phishing email.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/8/2025, 7:33:22 am
+🕒 Last updated: 1/9/2025, 7:49:36 am
