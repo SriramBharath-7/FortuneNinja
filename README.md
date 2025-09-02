@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"Go the extra mile. It’s never crowded."
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+If something feels off, trust your instincts.
 
 🧠 Challenge of the Day:
-Learn how to recognize a phishing email.
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/9/2025, 7:49:36 am
+🕒 Last updated: 2/9/2025, 7:29:28 am
