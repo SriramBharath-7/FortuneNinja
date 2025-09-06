@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In the middle of every difficulty lies opportunity. – Albert Einstein"
+"Dream it. Wish it. Do it."
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Understand how ransomware attacks work step-by-step.
+Set up 2FA for your primary email account.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/9/2025, 7:24:37 am
+🕒 Last updated: 6/9/2025, 7:21:46 am
