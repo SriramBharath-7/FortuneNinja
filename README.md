@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"Opportunities don’t happen. You create them. – Chris Grosser"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Shred physical documents containing sensitive info.
 
 🧠 Challenge of the Day:
-Set up 2FA for your primary email account.
+Create a GitHub repo to track your cyber learning.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/9/2025, 7:21:46 am
+🕒 Last updated: 7/9/2025, 7:30:42 am
