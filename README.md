@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Opportunities don’t happen. You create them. – Chris Grosser"
+"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
 
 🛡️ Cyber Tip:
-Shred physical documents containing sensitive info.
+Use a separate device/account for experimenting or testing.
 
 🧠 Challenge of the Day:
-Create a GitHub repo to track your cyber learning.
+Create a dummy email and explore spam emails safely.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/9/2025, 7:30:42 am
+🕒 Last updated: 8/9/2025, 7:30:27 am
