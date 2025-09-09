@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-Use a separate device/account for experimenting or testing.
+Set parental controls on shared family devices.
 
 🧠 Challenge of the Day:
-Create a dummy email and explore spam emails safely.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/9/2025, 7:30:27 am
+🕒 Last updated: 9/9/2025, 7:26:20 am
