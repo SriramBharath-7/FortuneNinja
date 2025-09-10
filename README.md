@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The mind is everything. What you think you become. – Buddha"
+"Dream it. Wish it. Do it."
 
 🛡️ Cyber Tip:
-Set parental controls on shared family devices.
+Monitor your digital footprint with search engines.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/9/2025, 7:26:20 am
+🕒 Last updated: 10/9/2025, 7:22:29 am
