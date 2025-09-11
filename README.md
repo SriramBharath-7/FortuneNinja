@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"You didn’t come this far to only come this far."
 
 🛡️ Cyber Tip:
-Monitor your digital footprint with search engines.
+Install browser ad blockers to prevent malicious ads.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/9/2025, 7:22:29 am
+🕒 Last updated: 11/9/2025, 7:25:42 am
