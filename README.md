@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You didn’t come this far to only come this far."
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-Install browser ad blockers to prevent malicious ads.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Read about penetration testing basics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/9/2025, 7:25:42 am
+🕒 Last updated: 12/9/2025, 7:21:08 am
