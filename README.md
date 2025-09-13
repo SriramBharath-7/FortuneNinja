@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Act as if what you do makes a difference. It does. – William James"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Clear your browser cache and cookies regularly.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Read about penetration testing basics.
+Watch a video explaining SQL Injection.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/9/2025, 7:21:08 am
+🕒 Last updated: 13/9/2025, 7:16:28 am
