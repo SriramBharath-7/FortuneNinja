@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"Hacking is not a crime, it's a mindset."
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+If something feels off, trust your instincts.
 
 🧠 Challenge of the Day:
-Watch a video explaining SQL Injection.
+Understand the difference between IDS and IPS.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/9/2025, 7:16:28 am
+🕒 Last updated: 14/9/2025, 7:30:09 am
