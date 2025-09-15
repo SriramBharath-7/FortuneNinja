@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hacking is not a crime, it's a mindset."
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-If something feels off, trust your instincts.
+Keep copies of important credentials offline.
 
 🧠 Challenge of the Day:
-Understand the difference between IDS and IPS.
+Understand phishing vs spear-phishing.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/9/2025, 7:30:09 am
+🕒 Last updated: 15/9/2025, 7:31:48 am
