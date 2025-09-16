@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Act as if what you do makes a difference. It does. – William James"
+"Everything has beauty, but not everyone can see. – Confucius"
 
 🛡️ Cyber Tip:
 Keep copies of important credentials offline.
 
 🧠 Challenge of the Day:
-Understand phishing vs spear-phishing.
+Research the importance of patch management.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/9/2025, 7:31:48 am
+🕒 Last updated: 16/9/2025, 7:22:36 am
