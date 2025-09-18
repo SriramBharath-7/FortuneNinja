@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Be yourself; everyone else is already taken. – Oscar Wilde"
+"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Don’t trust unfamiliar Bluetooth pairing requests.
+Be careful with what you copy-paste from the internet.
 
 🧠 Challenge of the Day:
-Understand the basic concept of digital signatures.
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/9/2025, 7:22:31 am
+🕒 Last updated: 18/9/2025, 7:22:30 am
