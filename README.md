@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
+"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
 
 🛡️ Cyber Tip:
-Be careful with what you copy-paste from the internet.
+Report suspicious emails or accounts to IT/security teams.
 
 🧠 Challenge of the Day:
-Understand how HTTPS works.
+Install a password manager and create a strong master password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/9/2025, 7:22:30 am
+🕒 Last updated: 19/9/2025, 7:25:51 am
