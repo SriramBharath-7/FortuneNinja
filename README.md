@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"Don't count the days, make the days count. – Muhammad Ali"
 
 🛡️ Cyber Tip:
-Report suspicious emails or accounts to IT/security teams.
+Avoid using public charging stations (use a USB data blocker).
 
 🧠 Challenge of the Day:
-Install a password manager and create a strong master password.
+Read about privacy tools like DuckDuckGo or Tor.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/9/2025, 7:25:51 am
+🕒 Last updated: 20/9/2025, 7:20:17 am
