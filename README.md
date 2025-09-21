@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don't count the days, make the days count. – Muhammad Ali"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Avoid using public charging stations (use a USB data blocker).
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/9/2025, 7:20:17 am
+🕒 Last updated: 21/9/2025, 7:33:30 am
