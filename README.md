@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/9/2025, 7:33:30 am
+🕒 Last updated: 22/9/2025, 7:33:41 am
