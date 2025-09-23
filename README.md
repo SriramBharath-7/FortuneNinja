@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"In a gentle way, you can shake the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Be skeptical of 'too good to be true' online offers.
+Keep your BIOS/UEFI firmware updated.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Explore how cookies can be abused.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/9/2025, 7:33:41 am
+🕒 Last updated: 23/9/2025, 7:23:00 am
