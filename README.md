@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"Don't count the days, make the days count. – Muhammad Ali"
 
 🛡️ Cyber Tip:
-Keep your BIOS/UEFI firmware updated.
+Educate yourself continuously on cybersecurity trends.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Research about TOR and its uses.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/9/2025, 7:23:00 am
+🕒 Last updated: 24/9/2025, 7:24:39 am
