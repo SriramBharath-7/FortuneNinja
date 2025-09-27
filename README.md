@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Know your enemy and know yourself."
+"Hacking is not a crime, it's a mindset."
 
 🛡️ Cyber Tip:
-Turn off auto-connect for Wi-Fi on your devices.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/9/2025, 7:24:46 am
+🕒 Last updated: 27/9/2025, 7:19:59 am
