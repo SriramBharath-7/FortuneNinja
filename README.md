@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hacking is not a crime, it's a mindset."
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Research how password hashing works.
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/9/2025, 7:19:59 am
+🕒 Last updated: 28/9/2025, 7:34:14 am
