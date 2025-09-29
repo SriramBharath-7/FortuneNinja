@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Clear your browser cache and cookies regularly.
+Use VPNs when using public networks.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Take notes on digital identity and authentication.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/9/2025, 7:34:14 am
+🕒 Last updated: 29/9/2025, 7:27:59 am
