@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Use VPNs when using public networks.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Take notes on digital identity and authentication.
+Learn how to use the `ping` and `tracert` command.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/9/2025, 7:27:59 am
+🕒 Last updated: 30/9/2025, 7:22:35 am
