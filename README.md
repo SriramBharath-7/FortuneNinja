@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Be careful with what you copy-paste from the internet.
 
 🧠 Challenge of the Day:
-Learn how to use the `ping` and `tracert` command.
+Create a simple mind map of cyber domains.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/9/2025, 7:22:35 am
+🕒 Last updated: 1/10/2025, 7:35:25 am
