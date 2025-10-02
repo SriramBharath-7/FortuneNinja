@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
+"Try to be a rainbow in someone’s cloud. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Be careful with what you copy-paste from the internet.
+Enable login alerts where available.
 
 🧠 Challenge of the Day:
-Create a simple mind map of cyber domains.
+Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/10/2025, 7:35:25 am
+🕒 Last updated: 2/10/2025, 7:23:04 am
