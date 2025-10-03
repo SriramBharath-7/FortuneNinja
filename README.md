@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Try to be a rainbow in someone’s cloud. – Maya Angelou"
+"Doubt kills more dreams than failure ever will. – Suzy Kassem"
 
 🛡️ Cyber Tip:
-Enable login alerts where available.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
+Track your learning in Notion or Obsidian.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/10/2025, 7:23:04 am
+🕒 Last updated: 3/10/2025, 7:22:45 am
