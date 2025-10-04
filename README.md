@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Doubt kills more dreams than failure ever will. – Suzy Kassem"
+"To live a creative life, we must lose our fear of being wrong. – Joseph Chilton Pearce"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Track your learning in Notion or Obsidian.
+Research about TOR and its uses.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/10/2025, 7:22:45 am
+🕒 Last updated: 4/10/2025, 7:18:20 am
