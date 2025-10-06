@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You miss 100% of the shots you don’t take. – Wayne Gretzky"
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-Keep copies of important credentials offline.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Research the importance of patch management.
+Understand the role of cybersecurity analysts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/10/2025, 7:33:37 am
+🕒 Last updated: 6/10/2025, 7:26:15 am
