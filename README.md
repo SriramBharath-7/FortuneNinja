@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Act as if what you do makes a difference. It does. – William James"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Understand the role of cybersecurity analysts.
+Understand the difference between IDS and IPS.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/10/2025, 7:26:15 am
+🕒 Last updated: 7/10/2025, 7:23:47 am
