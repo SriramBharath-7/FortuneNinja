@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Happiness depends upon ourselves. – Aristotle"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Understand the difference between IDS and IPS.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/10/2025, 7:23:47 am
+🕒 Last updated: 8/10/2025, 7:23:34 am
