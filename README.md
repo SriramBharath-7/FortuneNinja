@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness depends upon ourselves. – Aristotle"
+"The best revenge is massive success. – Frank Sinatra"
 
 🛡️ Cyber Tip:
-Keep your browser extensions to a minimum.
+Use MFA apps over SMS-based 2FA.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Watch a beginner’s guide to Wireshark.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/10/2025, 7:23:34 am
+🕒 Last updated: 9/10/2025, 7:24:45 am
