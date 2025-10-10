@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best revenge is massive success. – Frank Sinatra"
+"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
 
 🛡️ Cyber Tip:
-Use MFA apps over SMS-based 2FA.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Watch a beginner’s guide to Wireshark.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/10/2025, 7:24:45 am
+🕒 Last updated: 10/10/2025, 7:25:21 am
