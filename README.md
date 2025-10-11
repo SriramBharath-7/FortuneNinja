@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
+"Be yourself; everyone else is already taken. – Oscar Wilde"
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Lock down file/folder permissions for sensitive data.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Understand phishing vs spear-phishing.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/10/2025, 7:25:21 am
+🕒 Last updated: 11/10/2025, 7:20:10 am
