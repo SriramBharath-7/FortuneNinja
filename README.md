@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Be yourself; everyone else is already taken. – Oscar Wilde"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Lock down file/folder permissions for sensitive data.
+Keep your BIOS/UEFI firmware updated.
 
 🧠 Challenge of the Day:
-Understand phishing vs spear-phishing.
+Learn what social engineering is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/10/2025, 7:20:10 am
+🕒 Last updated: 12/10/2025, 7:29:08 am
