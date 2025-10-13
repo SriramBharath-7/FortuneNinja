@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Keep your BIOS/UEFI firmware updated.
+Beware of free trial traps that auto-renew.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/10/2025, 7:29:08 am
+🕒 Last updated: 13/10/2025, 7:32:48 am
