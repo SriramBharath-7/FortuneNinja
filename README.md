@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Beware of free trial traps that auto-renew.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Explore how companies handle incident response.
+Install a password manager and create a strong master password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/10/2025, 7:32:48 am
+🕒 Last updated: 14/10/2025, 7:25:33 am
