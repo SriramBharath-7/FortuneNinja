@@ -7,10 +7,10 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"The secret of getting ahead is getting started. – Mark Twain"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Use throwaway emails for sign-ups and testing.
 
 🧠 Challenge of the Day:
 Install a password manager and create a strong master password.
@@ -18,4 +18,4 @@ Install a password manager and create a strong master password.
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/10/2025, 7:25:33 am
+🕒 Last updated: 15/10/2025, 7:28:32 am
