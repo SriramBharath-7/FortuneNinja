@@ -10,12 +10,12 @@
 "The secret of getting ahead is getting started. – Mark Twain"
 
 🛡️ Cyber Tip:
-Use throwaway emails for sign-ups and testing.
+Secure your GitHub repos with SSH keys.
 
 🧠 Challenge of the Day:
-Install a password manager and create a strong master password.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/10/2025, 7:28:32 am
+🕒 Last updated: 16/10/2025, 7:27:13 am
