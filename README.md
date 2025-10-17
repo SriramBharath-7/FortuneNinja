@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The secret of getting ahead is getting started. – Mark Twain"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Secure your GitHub repos with SSH keys.
+Subscribe to cybersecurity newsletters.
 
 🧠 Challenge of the Day:
-Explore how companies handle incident response.
+Read about email spoofing.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/10/2025, 7:27:13 am
+🕒 Last updated: 17/10/2025, 7:26:09 am
