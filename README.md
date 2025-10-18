@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Be so good they can’t ignore you. – Steve Martin"
 
 🛡️ Cyber Tip:
-Subscribe to cybersecurity newsletters.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/10/2025, 7:26:09 am
+🕒 Last updated: 18/10/2025, 7:20:53 am
