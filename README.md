@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Be so good they can’t ignore you. – Steve Martin"
+"You become what you believe. – Oprah Winfrey"
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Sign up for HaveIBeenPwned and check if your email is in a data breach.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/10/2025, 7:20:53 am
+🕒 Last updated: 19/10/2025, 7:39:13 am
