@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You become what you believe. – Oprah Winfrey"
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Back up your important data regularly.
 
 🧠 Challenge of the Day:
-Sign up for HaveIBeenPwned and check if your email is in a data breach.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/10/2025, 7:39:13 am
+🕒 Last updated: 20/10/2025, 7:35:57 am
