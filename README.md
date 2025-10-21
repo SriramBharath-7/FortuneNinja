@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
+"In a gentle way, you can shake the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Back up your important data regularly.
+Use throwaway emails for sign-ups and testing.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/10/2025, 7:35:57 am
+🕒 Last updated: 21/10/2025, 7:29:18 am
