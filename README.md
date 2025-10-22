@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Use throwaway emails for sign-ups and testing.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/10/2025, 7:29:18 am
+🕒 Last updated: 22/10/2025, 7:32:40 am
