@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
+"If opportunity doesn’t knock, build a door. – Milton Berle"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Read about session hijacking.
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/10/2025, 7:32:40 am
+🕒 Last updated: 23/10/2025, 7:28:10 am
