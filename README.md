@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If opportunity doesn’t knock, build a door. – Milton Berle"
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Review account activity logs regularly.
 
 🧠 Challenge of the Day:
-Learn what a honeypot is in cybersecurity.
+Join a cybersecurity Discord or Reddit community.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/10/2025, 7:28:10 am
+🕒 Last updated: 24/10/2025, 7:24:05 am
