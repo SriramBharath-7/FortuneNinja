@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do one thing every day that scares you. – Eleanor Roosevelt"
+"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
 
 🛡️ Cyber Tip:
-Review account activity logs regularly.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Join a cybersecurity Discord or Reddit community.
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/10/2025, 7:24:05 am
+🕒 Last updated: 25/10/2025, 7:25:43 am
