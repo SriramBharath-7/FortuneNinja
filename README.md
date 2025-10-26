@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Research how password hashing works.
+Learn what an IP address is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/10/2025, 7:25:43 am
+🕒 Last updated: 26/10/2025, 7:35:10 am
