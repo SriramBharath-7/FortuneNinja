@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Great things never come from comfort zones."
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+Avoid clicking ads on sketchy websites.
 
 🧠 Challenge of the Day:
-Learn what an IP address is.
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/10/2025, 7:35:10 am
+🕒 Last updated: 27/10/2025, 7:39:24 am
