@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Great things never come from comfort zones."
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Avoid clicking ads on sketchy websites.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Set a strong, unique password for one of your old accounts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/10/2025, 7:39:24 am
+🕒 Last updated: 28/10/2025, 7:28:29 am
