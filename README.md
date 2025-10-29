@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Set a strong, unique password for one of your old accounts.
+Understand what rootkits are.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/10/2025, 7:28:29 am
+🕒 Last updated: 29/10/2025, 7:36:00 am
