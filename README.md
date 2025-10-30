@@ -7,10 +7,10 @@
 
 ```bash
 📜 Quote of the Day:
-"The harder you work for something, the greater you’ll feel when you achieve it."
+"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
 
 🛡️ Cyber Tip:
-Be skeptical of 'too good to be true' online offers.
+Don't reuse passwords across platforms.
 
 🧠 Challenge of the Day:
 Understand what rootkits are.
@@ -18,4 +18,4 @@ Understand what rootkits are.
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/10/2025, 7:36:00 am
+🕒 Last updated: 30/10/2025, 7:34:32 am
