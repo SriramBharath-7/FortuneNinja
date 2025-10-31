@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Understand what rootkits are.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/10/2025, 7:34:32 am
+🕒 Last updated: 31/10/2025, 7:31:45 am
