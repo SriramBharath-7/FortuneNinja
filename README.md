@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
 
 🛡️ Cyber Tip:
-Beware of free trial traps that auto-renew.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/11/2025, 7:35:14 am
+🕒 Last updated: 2/11/2025, 7:38:08 am
