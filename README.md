@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Review GitHub/GitLab commit history for secrets.
 
 🧠 Challenge of the Day:
-Explore Google Dorking (theory only for now).
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/11/2025, 7:38:08 am
+🕒 Last updated: 3/11/2025, 7:37:12 am
