@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"Everything has beauty, but not everyone can see. – Confucius"
 
 🛡️ Cyber Tip:
-Review GitHub/GitLab commit history for secrets.
+Shred physical documents containing sensitive info.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Research how biometrics are used in security.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/11/2025, 7:37:12 am
+🕒 Last updated: 4/11/2025, 7:32:24 am
