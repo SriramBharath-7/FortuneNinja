@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Everything has beauty, but not everyone can see. – Confucius"
+"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
 
 🛡️ Cyber Tip:
-Shred physical documents containing sensitive info.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Research how biometrics are used in security.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/11/2025, 7:32:24 am
+🕒 Last updated: 5/11/2025, 7:33:32 am
