@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Use biometric authentication for additional security.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Understand the impact of zero-trust architecture.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/11/2025, 7:33:32 am
+🕒 Last updated: 6/11/2025, 7:33:46 am
