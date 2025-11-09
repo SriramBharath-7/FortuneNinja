@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t wait. The time will never be just right. – Napoleon Hill"
+"Don't count the days, make the days count. – Muhammad Ali"
 
 🛡️ Cyber Tip:
-Be careful with what you copy-paste from the internet.
+Enable full-disk encryption on laptops.
 
 🧠 Challenge of the Day:
-Explore career paths in cybersecurity.
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/11/2025, 7:25:49 am
+🕒 Last updated: 9/11/2025, 7:36:56 am
