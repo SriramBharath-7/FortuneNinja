@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Focus on being productive instead of busy. – Tim Ferriss"
+"It always seems impossible until it's done. – Nelson Mandela"
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Configure privacy settings on all social platforms.
 
 🧠 Challenge of the Day:
-Learn about the role of ethical hackers.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/11/2025, 7:38:02 am
+🕒 Last updated: 11/11/2025, 7:34:18 am
