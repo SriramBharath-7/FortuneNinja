@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It always seems impossible until it's done. – Nelson Mandela"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Configure privacy settings on all social platforms.
+Be careful with what you copy-paste from the internet.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/11/2025, 7:34:18 am
+🕒 Last updated: 12/11/2025, 7:33:23 am
