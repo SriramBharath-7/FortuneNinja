@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Be careful with what you copy-paste from the internet.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/11/2025, 7:33:23 am
+🕒 Last updated: 13/11/2025, 7:35:34 am
