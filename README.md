@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Use VPNs when using public networks.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Learn what an IP address is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/11/2025, 7:35:34 am
+🕒 Last updated: 14/11/2025, 7:33:56 am
