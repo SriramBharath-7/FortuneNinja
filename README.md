@@ -10,12 +10,12 @@
 "Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Use VPNs when using public networks.
+Regularly delete unused accounts.
 
 🧠 Challenge of the Day:
-Learn what an IP address is.
+Learn how to use a secure email provider.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/11/2025, 7:33:56 am
+🕒 Last updated: 15/11/2025, 7:29:47 am
