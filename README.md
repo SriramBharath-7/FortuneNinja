@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
 
 🛡️ Cyber Tip:
-Regularly delete unused accounts.
+Avoid clicking ads on sketchy websites.
 
 🧠 Challenge of the Day:
-Learn how to use a secure email provider.
+Understand what a port scan is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/11/2025, 7:29:47 am
+🕒 Last updated: 16/11/2025, 7:40:03 am
