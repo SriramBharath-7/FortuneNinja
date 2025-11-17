@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Avoid clicking ads on sketchy websites.
+Use secure messaging apps with end-to-end encryption.
 
 🧠 Challenge of the Day:
-Understand what a port scan is.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/11/2025, 7:40:03 am
+🕒 Last updated: 17/11/2025, 7:35:02 am
