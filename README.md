@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Action is the foundational key to all success. – Pablo Picasso"
+"Either you run the day or the day runs you. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Don't reuse passwords across platforms.
 
 🧠 Challenge of the Day:
-Learn how antivirus engines detect threats.
+Learn how to use the `ping` and `tracert` command.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/11/2025, 7:33:13 am
+🕒 Last updated: 19/11/2025, 7:33:08 am
