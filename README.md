@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Either you run the day or the day runs you. – Jim Rohn"
+"Do what you can, with what you have, where you are. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Learn about data privacy regulations like GDPR.
 
 🧠 Challenge of the Day:
-Learn how to use the `ping` and `tracert` command.
+Explore open-source threat intel feeds.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/11/2025, 7:33:08 am
+🕒 Last updated: 20/11/2025, 7:31:30 am
