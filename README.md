@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do what you can, with what you have, where you are. – Theodore Roosevelt"
+"Don’t let yesterday take up too much of today. – Will Rogers"
 
 🛡️ Cyber Tip:
-Learn about data privacy regulations like GDPR.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Explore open-source threat intel feeds.
+Change your router’s default password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/11/2025, 7:31:30 am
+🕒 Last updated: 21/11/2025, 7:32:16 am
