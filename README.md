@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t let yesterday take up too much of today. – Will Rogers"
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Log out from sessions when using shared devices.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Check your browser’s security/privacy settings.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/11/2025, 7:32:16 am
+🕒 Last updated: 22/11/2025, 7:28:06 am
