@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The mind is everything. What you think you become. – Buddha"
+"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
 
 🛡️ Cyber Tip:
-Log out from sessions when using shared devices.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Check your browser’s security/privacy settings.
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/11/2025, 7:28:06 am
+🕒 Last updated: 23/11/2025, 7:53:39 am
