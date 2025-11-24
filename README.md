@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
+"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Understand the role of cybersecurity analysts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/11/2025, 7:53:39 am
+🕒 Last updated: 24/11/2025, 7:41:22 am
