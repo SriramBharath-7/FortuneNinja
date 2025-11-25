@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
 Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Understand the role of cybersecurity analysts.
+Read about the CIA Triad (Confidentiality, Integrity, Availability).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/11/2025, 7:41:22 am
+🕒 Last updated: 25/11/2025, 7:34:42 am
