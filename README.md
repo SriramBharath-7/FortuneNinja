@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"Don't count the days, make the days count. – Muhammad Ali"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Use security-focused browser extensions (like HTTPS Everywhere).
 
 🧠 Challenge of the Day:
-Read about the CIA Triad (Confidentiality, Integrity, Availability).
+Set a strong, unique password for one of your old accounts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/11/2025, 7:34:42 am
+🕒 Last updated: 26/11/2025, 7:35:08 am
