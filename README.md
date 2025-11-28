@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
+"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
 
 🛡️ Cyber Tip:
-Don’t install random APK files on Android devices.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Watch a demo of a keylogger in action (educational purposes only).
+Learn the difference between symmetric and asymmetric encryption.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/11/2025, 7:32:24 am
+🕒 Last updated: 28/11/2025, 7:32:00 am
