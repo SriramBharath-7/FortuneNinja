@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Create restore points before making system changes.
 
 🧠 Challenge of the Day:
-Learn the difference between symmetric and asymmetric encryption.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/11/2025, 7:32:00 am
+🕒 Last updated: 29/11/2025, 7:31:55 am
