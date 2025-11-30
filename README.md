@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Create restore points before making system changes.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/11/2025, 7:31:55 am
+🕒 Last updated: 30/11/2025, 7:52:09 am
