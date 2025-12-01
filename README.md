@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
+"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Read a real-world cybersecurity incident case study.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/11/2025, 7:52:09 am
+🕒 Last updated: 1/12/2025, 8:01:03 am
