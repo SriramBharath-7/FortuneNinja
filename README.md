@@ -10,12 +10,12 @@
 "It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
 
 🛡️ Cyber Tip:
-Be skeptical of 'too good to be true' online offers.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Read a real-world cybersecurity incident case study.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/12/2025, 8:01:03 am
+🕒 Last updated: 2/12/2025, 7:36:52 am
