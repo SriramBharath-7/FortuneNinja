@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
+"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Create a dummy email and explore spam emails safely.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/12/2025, 7:36:52 am
+🕒 Last updated: 3/12/2025, 7:36:27 am
