@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Shred physical documents containing sensitive info.
 
 🧠 Challenge of the Day:
-Create a dummy email and explore spam emails safely.
+Learn how bug bounty programs work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/12/2025, 7:36:27 am
+🕒 Last updated: 4/12/2025, 7:37:35 am
