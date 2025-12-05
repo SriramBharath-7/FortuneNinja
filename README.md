@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
+"Happiness depends upon ourselves. – Aristotle"
 
 🛡️ Cyber Tip:
-Shred physical documents containing sensitive info.
+Don't reuse passwords across platforms.
 
 🧠 Challenge of the Day:
-Learn how bug bounty programs work.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/12/2025, 7:37:35 am
+🕒 Last updated: 5/12/2025, 7:37:42 am
