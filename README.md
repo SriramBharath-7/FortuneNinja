@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness depends upon ourselves. – Aristotle"
+"Push yourself, because no one else is going to do it for you."
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Understand how ransomware attacks work step-by-step.
+Explore how cookies can be abused.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/12/2025, 7:37:42 am
+🕒 Last updated: 6/12/2025, 7:31:07 am
