@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push yourself, because no one else is going to do it for you."
+"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Turn off auto-connect for Wi-Fi on your devices.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/12/2025, 7:31:07 am
+🕒 Last updated: 7/12/2025, 7:52:54 am
