@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Go the extra mile. It’s never crowded."
+"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Learn how to create a secure login flow.
+Understand what a port scan is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/12/2025, 7:38:51 am
+🕒 Last updated: 9/12/2025, 7:37:33 am
