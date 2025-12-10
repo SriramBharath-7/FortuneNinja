@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+Never click on suspicious links in emails.
 
 🧠 Challenge of the Day:
-Understand what a port scan is.
+Read about brute force vs dictionary attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/12/2025, 7:37:33 am
+🕒 Last updated: 10/12/2025, 7:39:47 am
