@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
 
 🛡️ Cyber Tip:
 Never click on suspicious links in emails.
 
 🧠 Challenge of the Day:
-Read about brute force vs dictionary attacks.
+Read about zero-day vulnerabilities.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/12/2025, 7:39:47 am
+🕒 Last updated: 11/12/2025, 7:41:19 am
