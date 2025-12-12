@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
+"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
 
 🛡️ Cyber Tip:
-Never click on suspicious links in emails.
+Know how to use the `whois` command.
 
 🧠 Challenge of the Day:
-Read about zero-day vulnerabilities.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/12/2025, 7:41:19 am
+🕒 Last updated: 12/12/2025, 7:41:19 am
