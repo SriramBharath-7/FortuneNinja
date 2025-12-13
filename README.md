@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
+"In a gentle way, you can shake the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Know how to use the `whois` command.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Explore websites like TryHackMe or HackTheBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/12/2025, 7:41:19 am
+🕒 Last updated: 13/12/2025, 7:34:19 am
