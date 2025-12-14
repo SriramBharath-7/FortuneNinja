@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"Know your enemy and know yourself."
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Explore websites like TryHackMe or HackTheBox.
+Explore open-source threat intel feeds.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/12/2025, 7:34:19 am
+🕒 Last updated: 14/12/2025, 7:53:44 am
