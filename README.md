@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Know your enemy and know yourself."
+"He who has a why to live can bear almost any how. – Friedrich Nietzsche"
 
 🛡️ Cyber Tip:
-Clear your browser cache and cookies regularly.
+Set up alerts for suspicious banking transactions.
 
 🧠 Challenge of the Day:
-Explore open-source threat intel feeds.
+Track your learning in Notion or Obsidian.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/12/2025, 7:53:44 am
+🕒 Last updated: 15/12/2025, 7:51:04 am
