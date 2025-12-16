@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"He who has a why to live can bear almost any how. – Friedrich Nietzsche"
+"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
 
 🛡️ Cyber Tip:
-Set up alerts for suspicious banking transactions.
+Install a firewall on your system.
 
 🧠 Challenge of the Day:
-Track your learning in Notion or Obsidian.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/12/2025, 7:51:04 am
+🕒 Last updated: 16/12/2025, 7:41:54 am
