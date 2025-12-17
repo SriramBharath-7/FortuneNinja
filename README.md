@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Install a firewall on your system.
+Review GitHub/GitLab commit history for secrets.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Understand the role of cybersecurity analysts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/12/2025, 7:41:54 am
+🕒 Last updated: 17/12/2025, 7:36:54 am
