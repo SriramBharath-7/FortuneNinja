@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"Little things make big days."
 
 🛡️ Cyber Tip:
-Review GitHub/GitLab commit history for secrets.
+Back up your important data regularly.
 
 🧠 Challenge of the Day:
-Understand the role of cybersecurity analysts.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/12/2025, 7:36:54 am
+🕒 Last updated: 18/12/2025, 7:37:27 am
