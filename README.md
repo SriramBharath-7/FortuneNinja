@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Back up your important data regularly.
+Don’t allow all cookies by default on sites.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/12/2025, 7:37:27 am
+🕒 Last updated: 19/12/2025, 7:40:40 am
