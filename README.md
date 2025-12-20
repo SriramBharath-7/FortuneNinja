@@ -10,12 +10,12 @@
 "Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Don’t allow all cookies by default on sites.
+Be wary of downloading cracked software.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Set up BitLocker or FileVault (disk encryption).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/12/2025, 7:40:40 am
+🕒 Last updated: 20/12/2025, 7:33:42 am
