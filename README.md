@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"Energy and persistence conquer all things. – Benjamin Franklin"
 
 🛡️ Cyber Tip:
-Be wary of downloading cracked software.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Set up BitLocker or FileVault (disk encryption).
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/12/2025, 7:33:42 am
+🕒 Last updated: 21/12/2025, 7:53:51 am
