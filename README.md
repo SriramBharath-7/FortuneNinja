@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Energy and persistence conquer all things. – Benjamin Franklin"
+"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Use antivirus and antimalware tools consistently.
 
 🧠 Challenge of the Day:
-Understand how HTTPS works.
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/12/2025, 7:53:51 am
+🕒 Last updated: 22/12/2025, 7:52:36 am
