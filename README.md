@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Use antivirus and antimalware tools consistently.
+Enable remote wipe on your devices.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Look up different malware payloads and delivery methods.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/12/2025, 7:52:36 am
+🕒 Last updated: 23/12/2025, 7:41:55 am
