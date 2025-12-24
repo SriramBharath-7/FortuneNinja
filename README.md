@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Everything has beauty, but not everyone can see. – Confucius"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Look up different malware payloads and delivery methods.
+Install a Linux VM using VirtualBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/12/2025, 7:41:55 am
+🕒 Last updated: 24/12/2025, 7:39:59 am
