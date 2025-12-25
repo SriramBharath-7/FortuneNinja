@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Everything has beauty, but not everyone can see. – Confucius"
+"One day or day one. You decide."
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Install a Linux VM using VirtualBox.
+Understand how DNS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/12/2025, 7:39:59 am
+🕒 Last updated: 25/12/2025, 7:41:53 am
