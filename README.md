@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"One day or day one. You decide."
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Clear your browser cache and cookies regularly.
+Use MFA apps over SMS-based 2FA.
 
 🧠 Challenge of the Day:
-Understand how DNS works.
+Read about penetration testing basics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/12/2025, 7:41:53 am
+🕒 Last updated: 26/12/2025, 7:41:09 am
