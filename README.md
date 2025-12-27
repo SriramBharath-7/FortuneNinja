@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"Do what you can, with what you have, where you are. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Use MFA apps over SMS-based 2FA.
+Monitor your digital footprint with search engines.
 
 🧠 Challenge of the Day:
-Read about penetration testing basics.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/12/2025, 7:41:09 am
+🕒 Last updated: 27/12/2025, 7:38:53 am
