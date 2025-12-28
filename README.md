@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do what you can, with what you have, where you are. – Theodore Roosevelt"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Monitor your digital footprint with search engines.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Explore websites like TryHackMe or HackTheBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/12/2025, 7:38:53 am
+🕒 Last updated: 28/12/2025, 7:59:49 am
