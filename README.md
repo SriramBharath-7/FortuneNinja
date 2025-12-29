@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"Dream it. Wish it. Do it."
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Explore websites like TryHackMe or HackTheBox.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/12/2025, 7:59:49 am
+🕒 Last updated: 29/12/2025, 7:57:37 am
