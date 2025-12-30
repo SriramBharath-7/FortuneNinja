@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"Know your enemy and know yourself."
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Install browser ad blockers to prevent malicious ads.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Learn how antivirus engines detect threats.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/12/2025, 7:57:37 am
+🕒 Last updated: 30/12/2025, 7:48:48 am
