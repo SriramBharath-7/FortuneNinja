@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Know your enemy and know yourself."
+"Don’t let yesterday take up too much of today. – Will Rogers"
 
 🛡️ Cyber Tip:
-Install browser ad blockers to prevent malicious ads.
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Learn how antivirus engines detect threats.
+Read about MITM (Man in the Middle) attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/12/2025, 7:48:48 am
+🕒 Last updated: 31/12/2025, 7:48:44 am
