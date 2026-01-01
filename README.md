@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t let yesterday take up too much of today. – Will Rogers"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+If something feels off, trust your instincts.
 
 🧠 Challenge of the Day:
-Read about MITM (Man in the Middle) attacks.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/12/2025, 7:48:44 am
+🕒 Last updated: 1/1/2026, 8:00:25 am
