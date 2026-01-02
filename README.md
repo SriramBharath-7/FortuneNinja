@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"Wake up with determination. Go to bed with satisfaction."
 
 🛡️ Cyber Tip:
-If something feels off, trust your instincts.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Create a GitHub repo to track your cyber learning.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/1/2026, 8:00:25 am
+🕒 Last updated: 2/1/2026, 7:50:55 am
