@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Wake up with determination. Go to bed with satisfaction."
+"Push yourself, because no one else is going to do it for you."
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Keep copies of important credentials offline.
 
 🧠 Challenge of the Day:
-Create a GitHub repo to track your cyber learning.
+Learn how bug bounty programs work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/1/2026, 7:50:55 am
+🕒 Last updated: 3/1/2026, 7:38:06 am
