@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Never execute random scripts without checking them first.
+Keep your software and OS updated regularly.
 
 🧠 Challenge of the Day:
-Read about MITM (Man in the Middle) attacks.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/1/2026, 8:01:51 am
+🕒 Last updated: 5/1/2026, 8:01:21 am
