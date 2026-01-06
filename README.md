@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In cybersecurity, assume breach. Always."
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-Keep your software and OS updated regularly.
+Turn off mic/camera access when not needed.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Start learning about secure coding practices.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/1/2026, 8:01:21 am
+🕒 Last updated: 6/1/2026, 7:50:31 am
