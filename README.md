@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Use browser profiles to separate work and personal.
+Never execute random scripts without checking them first.
 
 🧠 Challenge of the Day:
-Read about common phishing tactics.
+Create a GitHub repo to track your cyber learning.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/1/2026, 7:51:25 am
+🕒 Last updated: 10/1/2026, 7:41:12 am
