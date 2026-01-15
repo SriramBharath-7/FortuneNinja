@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"You must be the change you wish to see in the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Don’t save banking info on shopping websites.
+Don’t enter credentials on pop-ups.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/1/2026, 7:55:56 am
+🕒 Last updated: 15/1/2026, 7:50:18 am
