@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You must be the change you wish to see in the world. – Mahatma Gandhi"
+"Little things make big days."
 
 🛡️ Cyber Tip:
-Don’t enter credentials on pop-ups.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Understand how ransomware attacks work step-by-step.
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/1/2026, 7:50:18 am
+🕒 Last updated: 16/1/2026, 7:52:14 am
