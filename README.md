@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"Every moment is a fresh beginning. – T.S. Eliot"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Take a beginner quiz on Cybersecurity on TryHackMe.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/1/2026, 7:52:14 am
+🕒 Last updated: 17/1/2026, 7:39:23 am
