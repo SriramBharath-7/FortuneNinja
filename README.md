@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Every moment is a fresh beginning. – T.S. Eliot"
+"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Don't share personal information on social media.
 
 🧠 Challenge of the Day:
-Take a beginner quiz on Cybersecurity on TryHackMe.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/1/2026, 7:39:23 am
+🕒 Last updated: 18/1/2026, 8:00:10 am
