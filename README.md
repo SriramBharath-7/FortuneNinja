@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
+"You become what you believe. – Oprah Winfrey"
 
 🛡️ Cyber Tip:
-Don't share personal information on social media.
+Avoid sharing screen without checking what’s visible.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Learn how to create a secure login flow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/1/2026, 8:00:10 am
+🕒 Last updated: 19/1/2026, 7:57:21 am
