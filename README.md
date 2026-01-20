@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You become what you believe. – Oprah Winfrey"
+"Be yourself; everyone else is already taken. – Oscar Wilde"
 
 🛡️ Cyber Tip:
-Avoid sharing screen without checking what’s visible.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Learn how to create a secure login flow.
+Learn how to use the `ping` and `tracert` command.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/1/2026, 7:57:21 am
+🕒 Last updated: 20/1/2026, 7:52:19 am
