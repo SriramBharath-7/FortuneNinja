@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Be yourself; everyone else is already taken. – Oscar Wilde"
+"Focus on being productive instead of busy. – Tim Ferriss"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Learn how to use the `ping` and `tracert` command.
+Learn how to recognize a phishing email.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/1/2026, 7:52:19 am
+🕒 Last updated: 21/1/2026, 7:55:17 am
