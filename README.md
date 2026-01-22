@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Focus on being productive instead of busy. – Tim Ferriss"
+"Change the world by being yourself. – Amy Poehler"
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Learn how to recognize a phishing email.
+Take a beginner quiz on Cybersecurity on TryHackMe.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/1/2026, 7:55:17 am
+🕒 Last updated: 22/1/2026, 7:56:36 am
