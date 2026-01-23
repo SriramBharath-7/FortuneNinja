@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Change the world by being yourself. – Amy Poehler"
+"In the middle of every difficulty lies opportunity. – Albert Einstein"
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Avoid using public Wi-Fi for sensitive transactions.
 
 🧠 Challenge of the Day:
-Take a beginner quiz on Cybersecurity on TryHackMe.
+Read about privacy tools like DuckDuckGo or Tor.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/1/2026, 7:56:36 am
+🕒 Last updated: 23/1/2026, 7:52:24 am
