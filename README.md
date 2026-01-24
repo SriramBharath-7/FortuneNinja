@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In the middle of every difficulty lies opportunity. – Albert Einstein"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Avoid using public Wi-Fi for sensitive transactions.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/1/2026, 7:52:24 am
+🕒 Last updated: 24/1/2026, 7:42:33 am
