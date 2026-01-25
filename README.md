@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"The best revenge is massive success. – Frank Sinatra"
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Start learning basic Linux commands.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/1/2026, 7:42:33 am
+🕒 Last updated: 25/1/2026, 8:03:58 am
