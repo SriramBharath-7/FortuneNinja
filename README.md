@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best revenge is massive success. – Frank Sinatra"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Don’t trust unfamiliar Bluetooth pairing requests.
 
 🧠 Challenge of the Day:
-Start learning basic Linux commands.
+Understand the role of cybersecurity analysts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/1/2026, 8:03:58 am
+🕒 Last updated: 26/1/2026, 8:02:48 am
