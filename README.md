@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"You miss 100% of the shots you don’t take. – Wayne Gretzky"
 
 🛡️ Cyber Tip:
-Don’t trust unfamiliar Bluetooth pairing requests.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Understand the role of cybersecurity analysts.
+Research what a firewall is and how it works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/1/2026, 8:02:48 am
+🕒 Last updated: 27/1/2026, 7:58:39 am
