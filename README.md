@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You miss 100% of the shots you don’t take. – Wayne Gretzky"
+"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Research what a firewall is and how it works.
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/1/2026, 7:58:39 am
+🕒 Last updated: 28/1/2026, 7:54:52 am
