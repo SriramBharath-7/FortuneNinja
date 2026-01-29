@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
+"Everything has beauty, but not everyone can see. – Confucius"
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/1/2026, 7:54:52 am
+🕒 Last updated: 29/1/2026, 8:11:54 am
