@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Everything has beauty, but not everyone can see. – Confucius"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Update default passwords on new devices immediately.
 
 🧠 Challenge of the Day:
-Practice using `whois` and `nslookup`.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/1/2026, 8:11:54 am
+🕒 Last updated: 30/1/2026, 8:12:23 am
