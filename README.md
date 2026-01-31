@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"The only way to do great work is to love what you do. – Steve Jobs"
 
 🛡️ Cyber Tip:
 Update default passwords on new devices immediately.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/1/2026, 8:12:23 am
+🕒 Last updated: 31/1/2026, 8:07:48 am
