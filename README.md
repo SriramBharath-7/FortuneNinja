@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The only way to do great work is to love what you do. – Steve Jobs"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Update default passwords on new devices immediately.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Learn how to recognize a phishing email.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/1/2026, 8:07:48 am
+🕒 Last updated: 1/2/2026, 8:50:01 am
