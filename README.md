@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"One day or day one. You decide."
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Never post screenshots of sensitive dashboards or tools.
 
 🧠 Challenge of the Day:
-Learn how to recognize a phishing email.
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/2/2026, 8:50:01 am
+🕒 Last updated: 2/2/2026, 8:22:32 am
