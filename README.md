@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"One day or day one. You decide."
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Never post screenshots of sensitive dashboards or tools.
+Set up alerts for suspicious banking transactions.
 
 🧠 Challenge of the Day:
-Learn what a honeypot is in cybersecurity.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/2/2026, 8:22:32 am
+🕒 Last updated: 3/2/2026, 8:18:45 am
