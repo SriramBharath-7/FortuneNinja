@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do one thing every day that scares you. – Eleanor Roosevelt"
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 🛡️ Cyber Tip:
-Set up alerts for suspicious banking transactions.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/2/2026, 8:18:45 am
+🕒 Last updated: 4/2/2026, 8:13:26 am
