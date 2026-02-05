@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The harder you work for something, the greater you’ll feel when you achieve it."
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Be cautious when scanning QR codes from unknown sources.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/2/2026, 8:13:26 am
+🕒 Last updated: 5/2/2026, 8:15:29 am
