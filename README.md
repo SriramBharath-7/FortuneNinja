@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Act as if what you do makes a difference. It does. – William James"
+"Dream big and dare to fail. – Norman Vaughan"
 
 🛡️ Cyber Tip:
-Be cautious when scanning QR codes from unknown sources.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/2/2026, 8:15:29 am
+🕒 Last updated: 6/2/2026, 8:15:43 am
