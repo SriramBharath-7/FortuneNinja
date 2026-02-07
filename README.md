@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream big and dare to fail. – Norman Vaughan"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Understand how HTTPS works.
+Create a backup of your important files.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/2/2026, 8:15:43 am
+🕒 Last updated: 7/2/2026, 8:11:08 am
