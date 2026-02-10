@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Use security-focused browser extensions (like HTTPS Everywhere).
+Secure your IoT devices with custom passwords.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/2/2026, 8:23:24 am
+🕒 Last updated: 10/2/2026, 8:48:04 am
