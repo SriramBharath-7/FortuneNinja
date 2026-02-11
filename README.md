@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
+"Happiness depends upon ourselves. – Aristotle"
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Read about malware types: trojan, spyware, ransomware, etc.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/2/2026, 8:48:04 am
+🕒 Last updated: 11/2/2026, 8:46:06 am
