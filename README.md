@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness depends upon ourselves. – Aristotle"
+"The best security tool is a curious mind."
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+Don’t enter credentials on pop-ups.
 
 🧠 Challenge of the Day:
-Read about malware types: trojan, spyware, ransomware, etc.
+Set up BitLocker or FileVault (disk encryption).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/2/2026, 8:46:06 am
+🕒 Last updated: 12/2/2026, 8:25:36 am
