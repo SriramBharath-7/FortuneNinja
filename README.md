@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best security tool is a curious mind."
+"Energy and persistence conquer all things. – Benjamin Franklin"
 
 🛡️ Cyber Tip:
-Don’t enter credentials on pop-ups.
+Don't trust unsolicited tech support calls.
 
 🧠 Challenge of the Day:
-Set up BitLocker or FileVault (disk encryption).
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/2/2026, 8:25:36 am
+🕒 Last updated: 13/2/2026, 8:25:39 am
