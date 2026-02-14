@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Energy and persistence conquer all things. – Benjamin Franklin"
+"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
 
 🛡️ Cyber Tip:
-Don't trust unsolicited tech support calls.
+Stay off illegal streaming/download sites.
 
 🧠 Challenge of the Day:
-Explore Google Dorking (theory only for now).
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/2/2026, 8:25:39 am
+🕒 Last updated: 14/2/2026, 8:13:05 am
