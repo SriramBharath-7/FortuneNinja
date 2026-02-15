@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Stay off illegal streaming/download sites.
+Secure your IoT devices with custom passwords.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Start learning about secure coding practices.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/2/2026, 8:13:05 am
+🕒 Last updated: 15/2/2026, 8:26:50 am
