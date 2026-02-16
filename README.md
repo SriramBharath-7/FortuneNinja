@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"Push yourself, because no one else is going to do it for you."
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Start learning about secure coding practices.
+Research the importance of patch management.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/2/2026, 8:26:50 am
+🕒 Last updated: 16/2/2026, 8:22:04 am
