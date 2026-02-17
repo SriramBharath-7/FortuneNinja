@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push yourself, because no one else is going to do it for you."
+"Nothing will work unless you do. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Don’t install random APK files on Android devices.
 
 🧠 Challenge of the Day:
-Research the importance of patch management.
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/2/2026, 8:22:04 am
+🕒 Last updated: 17/2/2026, 8:18:31 am
