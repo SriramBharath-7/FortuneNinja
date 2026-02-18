@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Nothing will work unless you do. – Maya Angelou"
+"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
 
 🛡️ Cyber Tip:
-Don’t install random APK files on Android devices.
+Turn off auto-connect for Wi-Fi on your devices.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Read about common phishing tactics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/2/2026, 8:18:31 am
+🕒 Last updated: 18/2/2026, 8:21:27 am
