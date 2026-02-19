@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
+"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
 
 🛡️ Cyber Tip:
-Turn off auto-connect for Wi-Fi on your devices.
+Install a firewall on your system.
 
 🧠 Challenge of the Day:
-Read about common phishing tactics.
+Set your personal learning goals for cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/2/2026, 8:21:27 am
+🕒 Last updated: 19/2/2026, 8:20:44 am
