@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
+"Doubt kills more dreams than failure ever will. – Suzy Kassem"
 
 🛡️ Cyber Tip:
-Install a firewall on your system.
+Stay off illegal streaming/download sites.
 
 🧠 Challenge of the Day:
-Set your personal learning goals for cybersecurity.
+Understand the basic concept of digital signatures.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/2/2026, 8:20:44 am
+🕒 Last updated: 20/2/2026, 8:15:29 am
