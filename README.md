@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Doubt kills more dreams than failure ever will. – Suzy Kassem"
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Stay off illegal streaming/download sites.
+Review your app permissions frequently.
 
 🧠 Challenge of the Day:
-Understand the basic concept of digital signatures.
+Try running a virus scan on your computer.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/2/2026, 8:15:29 am
+🕒 Last updated: 21/2/2026, 8:09:27 am
