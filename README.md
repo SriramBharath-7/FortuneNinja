@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
+"Opportunities don’t happen. You create them. – Chris Grosser"
 
 🛡️ Cyber Tip:
-Review your app permissions frequently.
+Don't trust browser pop-ups asking for updates.
 
 🧠 Challenge of the Day:
-Try running a virus scan on your computer.
+Understand how DNS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/2/2026, 8:09:27 am
+🕒 Last updated: 22/2/2026, 8:22:13 am
