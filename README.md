@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Opportunities don’t happen. You create them. – Chris Grosser"
+"Push through pain. On the other side is growth."
 
 🛡️ Cyber Tip:
-Don't trust browser pop-ups asking for updates.
+Be careful with what you copy-paste from the internet.
 
 🧠 Challenge of the Day:
-Understand how DNS works.
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/2/2026, 8:22:13 am
+🕒 Last updated: 23/2/2026, 8:22:05 am
