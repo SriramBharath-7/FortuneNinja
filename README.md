@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push through pain. On the other side is growth."
+"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
 
 🛡️ Cyber Tip:
-Be careful with what you copy-paste from the internet.
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Practice using `whois` and `nslookup`.
+Take a beginner quiz on Cybersecurity on TryHackMe.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/2/2026, 8:22:05 am
+🕒 Last updated: 24/2/2026, 8:19:18 am
