@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
+"Wake up with determination. Go to bed with satisfaction."
 
 🛡️ Cyber Tip:
-Be skeptical of 'too good to be true' online offers.
+Back up your important data regularly.
 
 🧠 Challenge of the Day:
-Take a beginner quiz on Cybersecurity on TryHackMe.
+Create a simple mind map of cyber domains.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/2/2026, 8:19:18 am
+🕒 Last updated: 25/2/2026, 8:20:27 am
