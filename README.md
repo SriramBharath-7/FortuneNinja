@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Wake up with determination. Go to bed with satisfaction."
+"Small deeds done are better than great deeds planned. – Peter Marshall"
 
 🛡️ Cyber Tip:
-Back up your important data regularly.
+Enable login alerts where available.
 
 🧠 Challenge of the Day:
-Create a simple mind map of cyber domains.
+Change your router’s default password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/2/2026, 8:20:27 am
+🕒 Last updated: 26/2/2026, 8:15:29 am
