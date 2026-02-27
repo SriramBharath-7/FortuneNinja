@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Small deeds done are better than great deeds planned. – Peter Marshall"
+"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Enable login alerts where available.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/2/2026, 8:15:29 am
+🕒 Last updated: 27/2/2026, 8:13:50 am
