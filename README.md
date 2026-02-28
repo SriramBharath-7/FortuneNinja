@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Enable remote wipe on your devices.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Watch a beginner’s guide to Wireshark.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/2/2026, 8:13:50 am
+🕒 Last updated: 28/2/2026, 8:02:37 am
