@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
+"A year from now you may wish you had started today. – Karen Lamb"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Secure your GitHub repos with SSH keys.
 
 🧠 Challenge of the Day:
-Watch a beginner’s guide to Wireshark.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/2/2026, 8:02:37 am
+🕒 Last updated: 1/3/2026, 8:46:02 am
