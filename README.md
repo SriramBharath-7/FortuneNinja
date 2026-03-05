@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+"Don’t let yesterday take up too much of today. – Will Rogers"
 
 🛡️ Cyber Tip:
-Configure privacy settings on all social platforms.
+Use a separate device/account for experimenting or testing.
 
 🧠 Challenge of the Day:
-Create a dummy email and explore spam emails safely.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/3/2026, 8:12:16 am
+🕒 Last updated: 5/3/2026, 8:15:17 am
