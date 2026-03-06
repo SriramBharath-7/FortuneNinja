@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t let yesterday take up too much of today. – Will Rogers"
+"Action is the foundational key to all success. – Pablo Picasso"
 
 🛡️ Cyber Tip:
-Use a separate device/account for experimenting or testing.
+Update default passwords on new devices immediately.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/3/2026, 8:15:17 am
+🕒 Last updated: 6/3/2026, 8:12:37 am
