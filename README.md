@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push through pain. On the other side is growth."
+"The greatest wealth is to live content with little. – Plato"
 
 🛡️ Cyber Tip:
-Learn to identify fake apps on app stores.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/3/2026, 8:11:47 am
+🕒 Last updated: 11/3/2026, 8:10:56 am
