@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The greatest wealth is to live content with little. – Plato"
+"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Read an article on the difference between viruses and worms.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/3/2026, 8:10:56 am
+🕒 Last updated: 12/3/2026, 8:16:43 am
