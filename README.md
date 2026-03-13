@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
+"Doubt kills more dreams than failure ever will. – Suzy Kassem"
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Be cautious when plugging in USB drives.
 
 🧠 Challenge of the Day:
-Read an article on the difference between viruses and worms.
+Research about TOR and its uses.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/3/2026, 8:16:43 am
+🕒 Last updated: 13/3/2026, 8:14:34 am
