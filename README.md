@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Everything has beauty, but not everyone can see. – Confucius"
+"It always seems impossible until it's done. – Nelson Mandela"
 
 🛡️ Cyber Tip:
-Configure privacy settings on all social platforms.
+Set auto-lock timeout on all your devices.
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/3/2026, 8:12:47 am
+🕒 Last updated: 15/3/2026, 8:51:37 am
