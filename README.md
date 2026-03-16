@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It always seems impossible until it's done. – Nelson Mandela"
+"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
 
 🛡️ Cyber Tip:
-Set auto-lock timeout on all your devices.
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Learn how two-factor authentication (2FA) works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/3/2026, 8:51:37 am
+🕒 Last updated: 16/3/2026, 8:53:45 am
