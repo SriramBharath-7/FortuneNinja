@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
+"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Learn how two-factor authentication (2FA) works.
+Understand what encryption is (basic level).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/3/2026, 8:53:45 am
+🕒 Last updated: 17/3/2026, 8:16:53 am
