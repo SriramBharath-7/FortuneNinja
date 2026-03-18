@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Set parental controls on shared family devices.
 
 🧠 Challenge of the Day:
-Understand what encryption is (basic level).
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/3/2026, 8:16:53 am
+🕒 Last updated: 18/3/2026, 8:23:25 am
