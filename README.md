@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Focus on being productive instead of busy. – Tim Ferriss"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Secure your GitHub repos with SSH keys.
+Stay informed about recent security threats.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/3/2026, 8:24:37 am
+🕒 Last updated: 20/3/2026, 8:15:43 am
