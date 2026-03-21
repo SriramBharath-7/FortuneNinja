@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"Small deeds done are better than great deeds planned. – Peter Marshall"
 
 🛡️ Cyber Tip:
-Stay informed about recent security threats.
+Subscribe to cybersecurity newsletters.
 
 🧠 Challenge of the Day:
-Explore Google Dorking (theory only for now).
+Install a Linux VM using VirtualBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/3/2026, 8:15:43 am
+🕒 Last updated: 21/3/2026, 8:09:11 am
