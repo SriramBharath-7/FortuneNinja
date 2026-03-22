@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Small deeds done are better than great deeds planned. – Peter Marshall"
+"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
 
 🛡️ Cyber Tip:
-Subscribe to cybersecurity newsletters.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Install a Linux VM using VirtualBox.
+Create a backup of your important files.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/3/2026, 8:09:11 am
+🕒 Last updated: 22/3/2026, 8:25:26 am
