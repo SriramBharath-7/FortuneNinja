@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What lies behind us and what lies before us are tiny matters compared to what lies within us. – Ralph Waldo Emerson"
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Know how to use the `whois` command.
 
 🧠 Challenge of the Day:
-Create a backup of your important files.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/3/2026, 8:25:26 am
+🕒 Last updated: 23/3/2026, 8:25:31 am
