@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
+"Don't wish it were easier. Wish you were better. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Know how to use the `whois` command.
+Subscribe to cybersecurity newsletters.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/3/2026, 8:25:31 am
+🕒 Last updated: 24/3/2026, 8:17:22 am
