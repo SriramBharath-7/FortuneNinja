@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don't wish it were easier. Wish you were better. – Jim Rohn"
+"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Subscribe to cybersecurity newsletters.
+Don’t enter credentials on pop-ups.
 
 🧠 Challenge of the Day:
-Practice using `whois` and `nslookup`.
+Understand the difference between IDS and IPS.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/3/2026, 8:17:22 am
+🕒 Last updated: 25/3/2026, 8:21:57 am
