@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
+"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
 
 🛡️ Cyber Tip:
-Don’t enter credentials on pop-ups.
+Don’t save banking info on shopping websites.
 
 🧠 Challenge of the Day:
-Understand the difference between IDS and IPS.
+Read about malware types: trojan, spyware, ransomware, etc.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/3/2026, 8:21:57 am
+🕒 Last updated: 26/3/2026, 8:47:19 am
