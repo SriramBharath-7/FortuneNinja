@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
 Don’t save banking info on shopping websites.
 
 🧠 Challenge of the Day:
-Read about malware types: trojan, spyware, ransomware, etc.
+Understand the impact of zero-trust architecture.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/3/2026, 8:47:19 am
+🕒 Last updated: 27/3/2026, 8:50:21 am
