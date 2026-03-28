@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"It always seems impossible until it's done. – Nelson Mandela"
 
 🛡️ Cyber Tip:
-Don’t save banking info on shopping websites.
+Create strong security questions (not easily guessed).
 
 🧠 Challenge of the Day:
-Understand the impact of zero-trust architecture.
+Create a backup of your important files.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/3/2026, 8:50:21 am
+🕒 Last updated: 28/3/2026, 8:21:00 am
