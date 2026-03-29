@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It always seems impossible until it's done. – Nelson Mandela"
+"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
 
 🛡️ Cyber Tip:
-Create strong security questions (not easily guessed).
+Don’t save banking info on shopping websites.
 
 🧠 Challenge of the Day:
-Create a backup of your important files.
+Watch a demo of a keylogger in action (educational purposes only).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/3/2026, 8:21:00 am
+🕒 Last updated: 29/3/2026, 8:55:16 am
