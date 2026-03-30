@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Don’t save banking info on shopping websites.
+Be wary of downloading cracked software.
 
 🧠 Challenge of the Day:
-Watch a demo of a keylogger in action (educational purposes only).
+Understand what rootkits are.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/3/2026, 8:55:16 am
+🕒 Last updated: 30/3/2026, 8:58:28 am
