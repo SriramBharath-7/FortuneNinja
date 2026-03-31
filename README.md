@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Be wary of downloading cracked software.
+Use throwaway emails for sign-ups and testing.
 
 🧠 Challenge of the Day:
-Understand what rootkits are.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/3/2026, 8:58:28 am
+🕒 Last updated: 31/3/2026, 8:49:18 am
