@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"You become what you believe. – Oprah Winfrey"
 
 🛡️ Cyber Tip:
-Use throwaway emails for sign-ups and testing.
+Use strong, unique passwords for every account.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/3/2026, 8:49:18 am
+🕒 Last updated: 1/4/2026, 9:02:00 am
