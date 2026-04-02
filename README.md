@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You become what you believe. – Oprah Winfrey"
+"We become what we think about. – Earl Nightingale"
 
 🛡️ Cyber Tip:
-Use strong, unique passwords for every account.
+Keep your BIOS/UEFI firmware updated.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Read about common phishing tactics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/4/2026, 9:02:00 am
+🕒 Last updated: 2/4/2026, 8:45:16 am
