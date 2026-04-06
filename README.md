@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Set up alerts for suspicious banking transactions.
+Turn off mic/camera access when not needed.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Research the importance of patch management.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/4/2026, 8:57:36 am
+🕒 Last updated: 6/4/2026, 9:00:32 am
