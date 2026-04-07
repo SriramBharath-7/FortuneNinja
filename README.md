@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Believe you can and you're halfway there. – Theodore Roosevelt"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Turn off mic/camera access when not needed.
+Use antivirus and antimalware tools consistently.
 
 🧠 Challenge of the Day:
-Research the importance of patch management.
+Create a cyber resume (track your learning progress).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/4/2026, 9:00:32 am
+🕒 Last updated: 7/4/2026, 8:50:21 am
