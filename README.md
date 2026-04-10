@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+"Start where you are. Use what you have. Do what you can. – Arthur Ashe"
 
 🛡️ Cyber Tip:
-Enable full-disk encryption on laptops.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/4/2026, 8:47:08 am
+🕒 Last updated: 10/4/2026, 9:00:52 am
