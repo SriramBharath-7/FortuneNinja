@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Start where you are. Use what you have. Do what you can. – Arthur Ashe"
+"Try to be a rainbow in someone’s cloud. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+If something feels off, trust your instincts.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Install a Linux VM using VirtualBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/4/2026, 9:00:52 am
+🕒 Last updated: 11/4/2026, 8:23:56 am
