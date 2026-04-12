@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Try to be a rainbow in someone’s cloud. – Maya Angelou"
+"You didn’t come this far to only come this far."
 
 🛡️ Cyber Tip:
-If something feels off, trust your instincts.
+Use secure messaging apps with end-to-end encryption.
 
 🧠 Challenge of the Day:
-Install a Linux VM using VirtualBox.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/4/2026, 8:23:56 am
+🕒 Last updated: 12/4/2026, 9:04:50 am
