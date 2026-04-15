@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"Don't wish it were easier. Wish you were better. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Use VPNs when using public networks.
 
 🧠 Challenge of the Day:
-Google 'What is a VPN tunnel?'
+Learn how two-factor authentication (2FA) works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/4/2026, 9:00:41 am
+🕒 Last updated: 15/4/2026, 8:59:38 am
