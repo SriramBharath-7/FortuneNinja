@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Wake up with determination. Go to bed with satisfaction."
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Read about brute force vs dictionary attacks.
+Set your personal learning goals for cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/4/2026, 9:06:26 am
+🕒 Last updated: 17/4/2026, 9:02:40 am
