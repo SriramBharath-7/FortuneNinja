@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
+"Opportunities don’t happen. You create them. – Chris Grosser"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Set your personal learning goals for cybersecurity.
+Change your router’s default password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/4/2026, 9:02:40 am
+🕒 Last updated: 18/4/2026, 8:50:25 am
