@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Opportunities don’t happen. You create them. – Chris Grosser"
+"The greatest wealth is to live content with little. – Plato"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Know how to use the `whois` command.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Learn how to create a secure login flow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/4/2026, 8:50:25 am
+🕒 Last updated: 19/4/2026, 9:09:30 am
