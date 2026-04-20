@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The greatest wealth is to live content with little. – Plato"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Know how to use the `whois` command.
+Use MFA apps over SMS-based 2FA.
 
 🧠 Challenge of the Day:
-Learn how to create a secure login flow.
+Learn about the role of ethical hackers.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/4/2026, 9:09:30 am
+🕒 Last updated: 20/4/2026, 9:10:53 am
