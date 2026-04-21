@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Use MFA apps over SMS-based 2FA.
+Verify identity over another channel before trusting info.
 
 🧠 Challenge of the Day:
-Learn about the role of ethical hackers.
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/4/2026, 9:10:53 am
+🕒 Last updated: 21/4/2026, 9:03:40 am
