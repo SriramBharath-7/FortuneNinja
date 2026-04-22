@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
 
 🛡️ Cyber Tip:
-Verify identity over another channel before trusting info.
+Lock down file/folder permissions for sensitive data.
 
 🧠 Challenge of the Day:
-Research how password hashing works.
+Explore how cookies can be abused.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/4/2026, 9:03:40 am
+🕒 Last updated: 22/4/2026, 9:01:35 am
