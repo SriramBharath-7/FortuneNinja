@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Your time is limited, don’t waste it living someone else’s life. – Steve Jobs"
+"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Lock down file/folder permissions for sensitive data.
+Create restore points before making system changes.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/4/2026, 9:01:35 am
+🕒 Last updated: 23/4/2026, 9:05:09 am
