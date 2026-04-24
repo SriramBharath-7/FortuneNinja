@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The future belongs to those who believe in the beauty of their dreams. – Eleanor Roosevelt"
+"Push through pain. On the other side is growth."
 
 🛡️ Cyber Tip:
-Create restore points before making system changes.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/4/2026, 9:05:09 am
+🕒 Last updated: 24/4/2026, 9:07:02 am
