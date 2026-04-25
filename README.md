@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push through pain. On the other side is growth."
+"The best security tool is a curious mind."
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Log out from sessions when using shared devices.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/4/2026, 9:07:02 am
+🕒 Last updated: 25/4/2026, 8:51:56 am
