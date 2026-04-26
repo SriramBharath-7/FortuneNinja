@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best security tool is a curious mind."
+"Do what you can, with what you have, where you are. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Log out from sessions when using shared devices.
+Use throwaway emails for sign-ups and testing.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Read about email spoofing.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/4/2026, 8:51:56 am
+🕒 Last updated: 26/4/2026, 9:15:23 am
