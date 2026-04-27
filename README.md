@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do what you can, with what you have, where you are. – Theodore Roosevelt"
+"The best preparation for tomorrow is doing your best today. – H. Jackson Brown Jr."
 
 🛡️ Cyber Tip:
-Use throwaway emails for sign-ups and testing.
+Review GitHub/GitLab commit history for secrets.
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/4/2026, 9:15:23 am
+🕒 Last updated: 27/4/2026, 9:19:59 am
