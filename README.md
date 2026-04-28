@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best preparation for tomorrow is doing your best today. – H. Jackson Brown Jr."
+"Don't wish it were easier. Wish you were better. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Review GitHub/GitLab commit history for secrets.
+Subscribe to cybersecurity newsletters.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/4/2026, 9:19:59 am
+🕒 Last updated: 28/4/2026, 9:24:31 am
