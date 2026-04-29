@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don't wish it were easier. Wish you were better. – Jim Rohn"
+"The only way to do great work is to love what you do. – Steve Jobs"
 
 🛡️ Cyber Tip:
-Subscribe to cybersecurity newsletters.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Watch a video explaining SQL Injection.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/4/2026, 9:24:31 am
+🕒 Last updated: 29/4/2026, 9:21:33 am
