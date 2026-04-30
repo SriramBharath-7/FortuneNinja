@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The only way to do great work is to love what you do. – Steve Jobs"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Don’t allow all cookies by default on sites.
 
 🧠 Challenge of the Day:
-Watch a video explaining SQL Injection.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/4/2026, 9:21:33 am
+🕒 Last updated: 30/4/2026, 9:22:21 am
