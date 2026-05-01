@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
 
 🛡️ Cyber Tip:
-Don’t allow all cookies by default on sites.
+Use biometric authentication for additional security.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Explore websites like TryHackMe or HackTheBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/4/2026, 9:22:21 am
+🕒 Last updated: 1/5/2026, 9:34:11 am
