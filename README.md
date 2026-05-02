@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The only limit to our realization of tomorrow is our doubts of today. – Franklin D. Roosevelt"
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Use biometric authentication for additional security.
+Don’t accept random Facebook/LinkedIn requests.
 
 🧠 Challenge of the Day:
-Explore websites like TryHackMe or HackTheBox.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/5/2026, 9:34:11 am
+🕒 Last updated: 2/5/2026, 9:06:49 am
