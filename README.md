@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"Start where you are. Use what you have. Do what you can. – Arthur Ashe"
 
 🛡️ Cyber Tip:
-Don’t accept random Facebook/LinkedIn requests.
+Review your app permissions frequently.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/5/2026, 9:06:49 am
+🕒 Last updated: 3/5/2026, 9:29:12 am
