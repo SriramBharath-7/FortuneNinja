@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Review account activity logs regularly.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Read about brute force vs dictionary attacks.
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/5/2026, 9:07:20 am
+🕒 Last updated: 6/5/2026, 9:23:12 am
