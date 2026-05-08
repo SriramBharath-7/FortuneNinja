@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Nothing will work unless you do. – Maya Angelou"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Log out from services on shared computers.
+Stay off illegal streaming/download sites.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/5/2026, 9:21:43 am
+🕒 Last updated: 8/5/2026, 9:12:03 am
