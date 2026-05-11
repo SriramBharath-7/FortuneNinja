@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is how high you bounce when you hit bottom. – George S. Patton"
+"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
 
 🛡️ Cyber Tip:
-Review account activity logs regularly.
+Keep your software and OS updated regularly.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Try disabling all unnecessary permissions on one app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/5/2026, 9:30:57 am
+🕒 Last updated: 11/5/2026, 9:41:54 am
