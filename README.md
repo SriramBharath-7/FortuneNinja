@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
+"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Keep your software and OS updated regularly.
+Update default passwords on new devices immediately.
 
 🧠 Challenge of the Day:
-Try disabling all unnecessary permissions on one app.
+Write down your 1-month cyber learning plan.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/5/2026, 9:41:54 am
+🕒 Last updated: 12/5/2026, 9:25:39 am
