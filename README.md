@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
+"Focus on being productive instead of busy. – Tim Ferriss"
 
 🛡️ Cyber Tip:
-Update default passwords on new devices immediately.
+Use multi-layered security (firewall + antivirus + 2FA).
 
 🧠 Challenge of the Day:
-Write down your 1-month cyber learning plan.
+Understand the basic concept of digital signatures.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/5/2026, 9:25:39 am
+🕒 Last updated: 13/5/2026, 9:34:11 am
