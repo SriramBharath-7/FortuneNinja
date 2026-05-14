@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Focus on being productive instead of busy. – Tim Ferriss"
+"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Use multi-layered security (firewall + antivirus + 2FA).
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Understand the basic concept of digital signatures.
+Understand how DNS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/5/2026, 9:34:11 am
+🕒 Last updated: 14/5/2026, 9:32:45 am
