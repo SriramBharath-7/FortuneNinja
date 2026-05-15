@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
+"We become what we think about. – Earl Nightingale"
 
 🛡️ Cyber Tip:
-Keep your browser extensions to a minimum.
+Report suspicious emails or accounts to IT/security teams.
 
 🧠 Challenge of the Day:
-Understand how DNS works.
+Explore the OWASP Top 10 web vulnerabilities.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/5/2026, 9:32:45 am
+🕒 Last updated: 15/5/2026, 9:38:02 am
