@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"We become what we think about. – Earl Nightingale"
+"Make each day your masterpiece. – John Wooden"
 
 🛡️ Cyber Tip:
-Report suspicious emails or accounts to IT/security teams.
+Learn to identify fake apps on app stores.
 
 🧠 Challenge of the Day:
-Explore the OWASP Top 10 web vulnerabilities.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/5/2026, 9:38:02 am
+🕒 Last updated: 16/5/2026, 9:20:17 am
