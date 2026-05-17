@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Learn to identify fake apps on app stores.
+Lock down file/folder permissions for sensitive data.
 
 🧠 Challenge of the Day:
-Read about session hijacking.
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/5/2026, 9:20:17 am
+🕒 Last updated: 17/5/2026, 9:38:38 am
