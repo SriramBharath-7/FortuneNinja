@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
 
 🛡️ Cyber Tip:
-Lock down file/folder permissions for sensitive data.
+Never execute random scripts without checking them first.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/5/2026, 9:38:38 am
+🕒 Last updated: 18/5/2026, 9:50:47 am
