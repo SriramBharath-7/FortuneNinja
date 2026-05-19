@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
+"Action is the foundational key to all success. – Pablo Picasso"
 
 🛡️ Cyber Tip:
-Never execute random scripts without checking them first.
+Use biometric authentication for additional security.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/5/2026, 9:50:47 am
+🕒 Last updated: 19/5/2026, 9:46:10 am
