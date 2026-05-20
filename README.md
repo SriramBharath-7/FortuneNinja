@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Action is the foundational key to all success. – Pablo Picasso"
+"Push through pain. On the other side is growth."
 
 🛡️ Cyber Tip:
-Use biometric authentication for additional security.
+Review your app permissions frequently.
 
 🧠 Challenge of the Day:
-Explore Google Dorking (theory only for now).
+Understand the basic concept of digital signatures.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/5/2026, 9:46:10 am
+🕒 Last updated: 20/5/2026, 9:47:04 am
