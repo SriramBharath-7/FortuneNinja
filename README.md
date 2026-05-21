@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Push through pain. On the other side is growth."
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-Review your app permissions frequently.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Understand the basic concept of digital signatures.
+Explore how cookies can be abused.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/5/2026, 9:47:04 am
+🕒 Last updated: 21/5/2026, 9:55:14 am
