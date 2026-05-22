@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The mind is everything. What you think you become. – Buddha"
+"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
 
 🛡️ Cyber Tip:
-Use different emails for work, personal, and sign-ups.
+Learn to identify fake apps on app stores.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/5/2026, 9:55:14 am
+🕒 Last updated: 22/5/2026, 9:49:52 am
