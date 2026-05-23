@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Learn to identify fake apps on app stores.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/5/2026, 9:49:52 am
+🕒 Last updated: 23/5/2026, 9:28:31 am
