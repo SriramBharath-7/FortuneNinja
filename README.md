@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Turn off auto-connect for Wi-Fi on your devices.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Track your learning in Notion or Obsidian.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/5/2026, 9:28:31 am
+🕒 Last updated: 24/5/2026, 9:48:52 am
