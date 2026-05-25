@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-Turn off auto-connect for Wi-Fi on your devices.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Track your learning in Notion or Obsidian.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/5/2026, 9:48:52 am
+🕒 Last updated: 25/5/2026, 10:10:57 am
