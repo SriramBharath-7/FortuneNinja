@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The mind is everything. What you think you become. – Buddha"
+"One day or day one. You decide."
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Understand how ransomware attacks work step-by-step.
+Create a cyber resume (track your learning progress).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/5/2026, 10:10:57 am
+🕒 Last updated: 26/5/2026, 9:46:27 am
