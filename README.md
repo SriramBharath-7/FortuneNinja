@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"One day or day one. You decide."
+"Energy and persistence conquer all things. – Benjamin Franklin"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Don't share personal information on social media.
 
 🧠 Challenge of the Day:
-Create a cyber resume (track your learning progress).
+Read about privacy tools like DuckDuckGo or Tor.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/5/2026, 9:46:27 am
+🕒 Last updated: 27/5/2026, 10:09:06 am
