@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Energy and persistence conquer all things. – Benjamin Franklin"
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Don't share personal information on social media.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Read about privacy tools like DuckDuckGo or Tor.
+Read about malware types: trojan, spyware, ransomware, etc.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/5/2026, 10:09:06 am
+🕒 Last updated: 28/5/2026, 9:49:02 am
