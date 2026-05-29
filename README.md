@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"To live a creative life, we must lose our fear of being wrong. – Joseph Chilton Pearce"
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Enable remote wipe on your devices.
 
 🧠 Challenge of the Day:
-Read about malware types: trojan, spyware, ransomware, etc.
+Understand what a port scan is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/5/2026, 9:49:02 am
+🕒 Last updated: 29/5/2026, 9:51:45 am
