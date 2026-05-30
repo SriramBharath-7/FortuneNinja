@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"To live a creative life, we must lose our fear of being wrong. – Joseph Chilton Pearce"
+"Either you run the day or the day runs you. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Be cautious of phishing emails — verify sender addresses.
 
 🧠 Challenge of the Day:
-Understand what a port scan is.
+Read an article on the difference between viruses and worms.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/5/2026, 9:51:45 am
+🕒 Last updated: 30/5/2026, 9:37:10 am
