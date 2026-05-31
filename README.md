@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Either you run the day or the day runs you. – Jim Rohn"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Be cautious of phishing emails — verify sender addresses.
+Install browser ad blockers to prevent malicious ads.
 
 🧠 Challenge of the Day:
-Read an article on the difference between viruses and worms.
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/5/2026, 9:37:10 am
+🕒 Last updated: 31/5/2026, 10:11:42 am
