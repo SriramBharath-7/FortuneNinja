@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
 
 🛡️ Cyber Tip:
-Install browser ad blockers to prevent malicious ads.
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Read about ethical hacking vs black-hat hacking.
+Check your browser’s security/privacy settings.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/5/2026, 10:11:42 am
+🕒 Last updated: 1/6/2026, 10:33:39 am
