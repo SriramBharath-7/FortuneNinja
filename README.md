@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The secret of getting ahead is getting started. – Mark Twain"
+"Dream it. Wish it. Do it."
 
 🛡️ Cyber Tip:
-Use sandbox environments for testing software.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Explore phishing simulation tools.
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/6/2026, 10:19:49 am
+🕒 Last updated: 3/6/2026, 10:30:25 am
