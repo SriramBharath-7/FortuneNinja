@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"Hacking is not a crime, it's a mindset."
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Be wary of downloading cracked software.
 
 🧠 Challenge of the Day:
-Research the use of firewalls in cloud environments.
+Learn what social engineering is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/6/2026, 10:30:25 am
+🕒 Last updated: 4/6/2026, 10:23:13 am
