@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hacking is not a crime, it's a mindset."
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Be wary of downloading cracked software.
+Don't reuse passwords across platforms.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Read an article on the difference between viruses and worms.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/6/2026, 10:23:13 am
+🕒 Last updated: 5/6/2026, 10:07:33 am
