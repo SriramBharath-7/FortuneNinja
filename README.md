@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Believe you can and you're halfway there. – Theodore Roosevelt"
+"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Encrypt sensitive emails using tools like PGP.
 
 🧠 Challenge of the Day:
-Read an article on the difference between viruses and worms.
+Learn what a keylogger is and how to avoid it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/6/2026, 10:07:33 am
+🕒 Last updated: 6/6/2026, 9:40:37 am
