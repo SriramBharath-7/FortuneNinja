@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Know how to use the `whois` command.
 
 🧠 Challenge of the Day:
-Learn what a keylogger is and how to avoid it.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/6/2026, 9:40:37 am
+🕒 Last updated: 7/6/2026, 10:16:44 am
