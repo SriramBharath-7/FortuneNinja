@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
+"Don’t wait. The time will never be just right. – Napoleon Hill"
 
 🛡️ Cyber Tip:
-Set up alerts for suspicious banking transactions.
+Don’t blindly open attachments, even if they seem safe.
 
 🧠 Challenge of the Day:
-Research about TOR and its uses.
+Learn what social engineering is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/6/2026, 10:17:46 am
+🕒 Last updated: 12/6/2026, 10:20:35 am
