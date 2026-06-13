@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t wait. The time will never be just right. – Napoleon Hill"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Don’t blindly open attachments, even if they seem safe.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Understand what data leakage is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/6/2026, 10:20:35 am
+🕒 Last updated: 13/6/2026, 10:08:39 am
