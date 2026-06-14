@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"We become what we think about. – Earl Nightingale"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Understand what data leakage is.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/6/2026, 10:08:39 am
+🕒 Last updated: 14/6/2026, 10:26:43 am
