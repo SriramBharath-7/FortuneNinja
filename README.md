@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"We become what we think about. – Earl Nightingale"
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Monitor your digital footprint with search engines.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/6/2026, 10:26:43 am
+🕒 Last updated: 15/6/2026, 10:45:38 am
