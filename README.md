@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"Either you run the day or the day runs you. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Monitor your digital footprint with search engines.
+Log out from sessions when using shared devices.
 
 🧠 Challenge of the Day:
-Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
+Take a beginner quiz on Cybersecurity on TryHackMe.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/6/2026, 10:45:38 am
+🕒 Last updated: 16/6/2026, 10:49:43 am
