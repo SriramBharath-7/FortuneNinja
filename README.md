@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Either you run the day or the day runs you. – Jim Rohn"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Log out from sessions when using shared devices.
+Set parental controls on shared family devices.
 
 🧠 Challenge of the Day:
-Take a beginner quiz on Cybersecurity on TryHackMe.
+Research about cloud security basics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/6/2026, 10:49:43 am
+🕒 Last updated: 17/6/2026, 10:29:19 am
