@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Set parental controls on shared family devices.
+Secure your GitHub repos with SSH keys.
 
 🧠 Challenge of the Day:
-Research about cloud security basics.
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/6/2026, 10:29:19 am
+🕒 Last updated: 18/6/2026, 10:18:51 am
