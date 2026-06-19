@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Secure your GitHub repos with SSH keys.
+Be cautious when scanning QR codes from unknown sources.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Explore the OWASP Top 10 web vulnerabilities.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/6/2026, 10:18:51 am
+🕒 Last updated: 19/6/2026, 10:39:48 am
