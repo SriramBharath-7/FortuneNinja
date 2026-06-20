@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"The greatest wealth is to live content with little. – Plato"
 
 🛡️ Cyber Tip:
-Be cautious when scanning QR codes from unknown sources.
+Always verify HTTPS on sites before entering credentials.
 
 🧠 Challenge of the Day:
-Explore the OWASP Top 10 web vulnerabilities.
+Read about penetration testing basics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/6/2026, 10:39:48 am
+🕒 Last updated: 20/6/2026, 9:51:54 am
