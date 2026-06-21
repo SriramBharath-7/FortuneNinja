@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The greatest wealth is to live content with little. – Plato"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Always verify HTTPS on sites before entering credentials.
+Never execute random scripts without checking them first.
 
 🧠 Challenge of the Day:
-Read about penetration testing basics.
+Learn what an IP address is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/6/2026, 9:51:54 am
+🕒 Last updated: 21/6/2026, 10:35:53 am
