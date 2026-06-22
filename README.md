@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Never execute random scripts without checking them first.
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Learn what an IP address is.
+Set your personal learning goals for cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/6/2026, 10:35:53 am
+🕒 Last updated: 22/6/2026, 10:47:25 am
