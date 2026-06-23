@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Believe you can and you're halfway there. – Theodore Roosevelt"
+"The harder you work for something, the greater you’ll feel when you achieve it."
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Set your personal learning goals for cybersecurity.
+Learn how to use a secure email provider.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/6/2026, 10:47:25 am
+🕒 Last updated: 23/6/2026, 9:41:16 am
