@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t wait. The time will never be just right. – Napoleon Hill"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Securely erase hard drives before discarding.
 
 🧠 Challenge of the Day:
-Set up 2FA for your primary email account.
+Take notes on digital identity and authentication.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/6/2026, 9:44:36 am
+🕒 Last updated: 25/6/2026, 9:44:46 am
