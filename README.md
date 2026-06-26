@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"The quieter you become, the more you can hear."
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Take notes on digital identity and authentication.
+Watch a beginner’s guide to Wireshark.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/6/2026, 9:44:46 am
+🕒 Last updated: 26/6/2026, 9:51:01 am
