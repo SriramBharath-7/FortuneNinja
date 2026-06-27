@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The quieter you become, the more you can hear."
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Avoid using default security questions (they're guessable).
 
 🧠 Challenge of the Day:
-Watch a beginner’s guide to Wireshark.
+Set up BitLocker or FileVault (disk encryption).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/6/2026, 9:51:01 am
+🕒 Last updated: 27/6/2026, 9:37:47 am
