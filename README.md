@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Avoid using default security questions (they're guessable).
+Install browser ad blockers to prevent malicious ads.
 
 🧠 Challenge of the Day:
-Set up BitLocker or FileVault (disk encryption).
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/6/2026, 9:37:47 am
+🕒 Last updated: 28/6/2026, 10:10:37 am
