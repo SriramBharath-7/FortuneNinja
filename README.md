@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Install browser ad blockers to prevent malicious ads.
+Back up your important data regularly.
 
 🧠 Challenge of the Day:
-Practice using `whois` and `nslookup`.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/6/2026, 10:10:37 am
+🕒 Last updated: 29/6/2026, 10:19:15 am
