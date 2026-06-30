@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Back up your important data regularly.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Install a password manager and create a strong master password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/6/2026, 10:19:15 am
+🕒 Last updated: 30/6/2026, 9:45:43 am
