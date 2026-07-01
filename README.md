@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"The best way to predict the future is to invent it. – Alan Kay"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Install a password manager and create a strong master password.
+Look up different malware payloads and delivery methods.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/6/2026, 9:45:43 am
+🕒 Last updated: 1/7/2026, 10:14:10 am
