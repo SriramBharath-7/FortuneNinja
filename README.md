@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best way to predict the future is to invent it. – Alan Kay"
+"The mind is everything. What you think you become. – Buddha"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Look up different malware payloads and delivery methods.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/7/2026, 10:14:10 am
+🕒 Last updated: 2/7/2026, 9:41:15 am
