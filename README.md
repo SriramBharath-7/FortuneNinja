@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do not wait to strike till the iron is hot; but make it hot by striking. – William Butler Yeats"
+"He who has a why to live can bear almost any how. – Friedrich Nietzsche"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Don’t allow all cookies by default on sites.
 
 🧠 Challenge of the Day:
-Explore career paths in cybersecurity.
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/7/2026, 9:27:46 am
+🕒 Last updated: 4/7/2026, 9:21:19 am
