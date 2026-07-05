@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"He who has a why to live can bear almost any how. – Friedrich Nietzsche"
+"Don't wish it were easier. Wish you were better. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Don’t allow all cookies by default on sites.
+Create restore points before making system changes.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Write down your 1-month cyber learning plan.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/7/2026, 9:21:19 am
+🕒 Last updated: 5/7/2026, 9:40:09 am
