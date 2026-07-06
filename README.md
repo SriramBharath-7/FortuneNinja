@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don't wish it were easier. Wish you were better. – Jim Rohn"
+"We become what we think about. – Earl Nightingale"
 
 🛡️ Cyber Tip:
-Create restore points before making system changes.
+Update default passwords on new devices immediately.
 
 🧠 Challenge of the Day:
-Write down your 1-month cyber learning plan.
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/7/2026, 9:40:09 am
+🕒 Last updated: 6/7/2026, 9:47:27 am
