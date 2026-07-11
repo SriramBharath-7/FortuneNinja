@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Use secure messaging apps with end-to-end encryption.
+Practice least privilege — give only required permissions.
 
 🧠 Challenge of the Day:
-Explore open-source threat intel feeds.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/7/2026, 9:31:10 am
+🕒 Last updated: 11/7/2026, 8:58:08 am
