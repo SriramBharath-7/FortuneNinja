@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In cybersecurity, assume breach. Always."
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Practice least privilege — give only required permissions.
+Set parental controls on shared family devices.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Understand how ransomware attacks work step-by-step.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/7/2026, 8:58:08 am
+🕒 Last updated: 12/7/2026, 9:09:34 am
