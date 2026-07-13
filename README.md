@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"The best security tool is a curious mind."
 
 🛡️ Cyber Tip:
-Set parental controls on shared family devices.
+Install a firewall on your system.
 
 🧠 Challenge of the Day:
-Understand how ransomware attacks work step-by-step.
+Understand what digital forensics involves.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/7/2026, 9:09:34 am
+🕒 Last updated: 13/7/2026, 9:11:25 am
