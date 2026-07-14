@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best security tool is a curious mind."
+"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
 
 🛡️ Cyber Tip:
-Install a firewall on your system.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Understand what digital forensics involves.
+Set a strong, unique password for one of your old accounts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/7/2026, 9:11:25 am
+🕒 Last updated: 14/7/2026, 8:46:45 am
