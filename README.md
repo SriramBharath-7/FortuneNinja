@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Keep copies of important credentials offline.
 
 🧠 Challenge of the Day:
-Set a strong, unique password for one of your old accounts.
+Research about TOR and its uses.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/7/2026, 8:46:45 am
+🕒 Last updated: 15/7/2026, 8:46:13 am
