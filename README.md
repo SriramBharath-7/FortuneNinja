@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
 
 🛡️ Cyber Tip:
-Keep copies of important credentials offline.
+Avoid clicking ads on sketchy websites.
 
 🧠 Challenge of the Day:
-Research about TOR and its uses.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/7/2026, 8:46:13 am
+🕒 Last updated: 16/7/2026, 8:53:16 am
