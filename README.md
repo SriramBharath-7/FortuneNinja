@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you arise in the morning, think of what a precious privilege it is to be alive. – Marcus Aurelius"
+"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Avoid clicking ads on sketchy websites.
+Educate yourself continuously on cybersecurity trends.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Research what a firewall is and how it works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/7/2026, 8:53:16 am
+🕒 Last updated: 17/7/2026, 8:55:55 am
