@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Educate yourself continuously on cybersecurity trends.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Research what a firewall is and how it works.
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/7/2026, 8:55:55 am
+🕒 Last updated: 18/7/2026, 8:45:14 am
