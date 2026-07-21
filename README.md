@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"Change the world by being yourself. – Amy Poehler"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Use throwaway emails for sign-ups and testing.
 
 🧠 Challenge of the Day:
-Set up 2FA for your primary email account.
+Set up BitLocker or FileVault (disk encryption).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/7/2026, 9:20:10 am
+🕒 Last updated: 21/7/2026, 8:59:35 am
