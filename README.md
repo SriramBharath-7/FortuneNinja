@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Change the world by being yourself. – Amy Poehler"
+"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Use throwaway emails for sign-ups and testing.
+Set up alerts for suspicious banking transactions.
 
 🧠 Challenge of the Day:
-Set up BitLocker or FileVault (disk encryption).
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/7/2026, 8:59:35 am
+🕒 Last updated: 22/7/2026, 8:58:35 am
