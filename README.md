@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hardships often prepare ordinary people for an extraordinary destiny. – C.S. Lewis"
+"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Set up alerts for suspicious banking transactions.
+Don’t save banking info on shopping websites.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Understand the basic concept of digital signatures.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/7/2026, 8:58:35 am
+🕒 Last updated: 23/7/2026, 9:03:30 am
