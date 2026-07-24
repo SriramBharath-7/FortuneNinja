@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
+"To live a creative life, we must lose our fear of being wrong. – Joseph Chilton Pearce"
 
 🛡️ Cyber Tip:
-Don’t save banking info on shopping websites.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Understand the basic concept of digital signatures.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/7/2026, 9:03:30 am
+🕒 Last updated: 24/7/2026, 8:59:40 am
