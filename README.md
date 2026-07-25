@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"To live a creative life, we must lose our fear of being wrong. – Joseph Chilton Pearce"
+"The best preparation for tomorrow is doing your best today. – H. Jackson Brown Jr."
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Avoid using public Wi-Fi for sensitive transactions.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Install a password manager and create a strong master password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/7/2026, 8:59:40 am
+🕒 Last updated: 25/7/2026, 8:57:29 am
