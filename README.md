@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best preparation for tomorrow is doing your best today. – H. Jackson Brown Jr."
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Avoid using public Wi-Fi for sensitive transactions.
+Don't trust unsolicited tech support calls.
 
 🧠 Challenge of the Day:
-Install a password manager and create a strong master password.
+Read about privacy tools like DuckDuckGo or Tor.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/7/2026, 8:57:29 am
+🕒 Last updated: 26/7/2026, 9:10:27 am
