@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"
+"You must be the change you wish to see in the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Use strong, unique passwords for every account.
 
 🧠 Challenge of the Day:
-Create a backup of your important files.
+Check your browser’s security/privacy settings.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/7/2026, 9:20:16 am
+🕒 Last updated: 28/7/2026, 8:51:01 am
