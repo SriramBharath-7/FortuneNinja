@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You must be the change you wish to see in the world. – Mahatma Gandhi"
+"Dream it. Wish it. Do it."
 
 🛡️ Cyber Tip:
-Use strong, unique passwords for every account.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Check your browser’s security/privacy settings.
+Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/7/2026, 8:51:01 am
+🕒 Last updated: 29/7/2026, 8:52:46 am
