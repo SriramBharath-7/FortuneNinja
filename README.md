@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Don't trust browser pop-ups asking for updates.
 
 🧠 Challenge of the Day:
-Sign up for a cybersecurity newsletter (e.g. HackerOne, DarkReading).
+Check your browser’s security/privacy settings.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/7/2026, 8:52:46 am
+🕒 Last updated: 30/7/2026, 8:25:55 am
