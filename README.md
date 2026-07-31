@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Don't trust browser pop-ups asking for updates.
+Use browser profiles to separate work and personal.
 
 🧠 Challenge of the Day:
-Check your browser’s security/privacy settings.
+Understand what the dark web is (just theory!).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/7/2026, 8:25:55 am
+🕒 Last updated: 31/7/2026, 9:08:15 am
