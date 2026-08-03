@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Wake up with determination. Go to bed with satisfaction."
+"Make each day your masterpiece. – John Wooden"
 
 🛡️ Cyber Tip:
-Turn off auto-connect for Wi-Fi on your devices.
+Educate yourself continuously on cybersecurity trends.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/8/2026, 9:07:55 am
+🕒 Last updated: 3/8/2026, 9:09:59 am
