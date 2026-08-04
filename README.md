@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
 
 🛡️ Cyber Tip:
-Educate yourself continuously on cybersecurity trends.
+Enable login alerts where available.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Track your learning in Notion or Obsidian.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/8/2026, 9:09:59 am
+🕒 Last updated: 4/8/2026, 8:54:25 am
