@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
+"Believe you can and you're halfway there. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Enable login alerts where available.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Track your learning in Notion or Obsidian.
+Understand how HTTPS works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/8/2026, 8:54:25 am
+🕒 Last updated: 5/8/2026, 8:49:25 am
