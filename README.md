@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Believe you can and you're halfway there. – Theodore Roosevelt"
+"You miss 100% of the shots you don’t take. – Wayne Gretzky"
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Understand how HTTPS works.
+Understand what digital forensics involves.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/8/2026, 8:49:25 am
+🕒 Last updated: 6/8/2026, 8:52:43 am
