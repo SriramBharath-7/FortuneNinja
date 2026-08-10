@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"
+"Know your enemy and know yourself."
 
 🛡️ Cyber Tip:
-Log out from sessions when using shared devices.
+Don’t save banking info on shopping websites.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Set a strong, unique password for one of your old accounts.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/8/2026, 7:48:18 am
+🕒 Last updated: 10/8/2026, 7:52:58 am
