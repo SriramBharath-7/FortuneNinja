@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Educate family/friends about basic digital hygiene.
 
 🧠 Challenge of the Day:
-Understand cyber laws in your country.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/8/2026, 7:44:30 am
+🕒 Last updated: 12/8/2026, 8:01:25 am
