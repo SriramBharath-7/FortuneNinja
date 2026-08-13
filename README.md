@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"What you get by achieving your goals is not as important as what you become by achieving your goals. – Zig Ziglar"
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
 
 🛡️ Cyber Tip:
-Educate family/friends about basic digital hygiene.
+Verify identity over another channel before trusting info.
 
 🧠 Challenge of the Day:
-Read about session hijacking.
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/8/2026, 8:01:25 am
+🕒 Last updated: 13/8/2026, 8:02:31 am
