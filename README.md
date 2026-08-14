@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
+"Little things make big days."
 
 🛡️ Cyber Tip:
-Verify identity over another channel before trusting info.
+Back up your important data regularly.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/8/2026, 8:02:31 am
+🕒 Last updated: 14/8/2026, 8:00:59 am
