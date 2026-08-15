@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"The greatest wealth is to live content with little. – Plato"
 
 🛡️ Cyber Tip:
-Back up your important data regularly.
+Avoid using public charging stations (use a USB data blocker).
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Read about MITM (Man in the Middle) attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/8/2026, 8:00:59 am
+🕒 Last updated: 15/8/2026, 7:10:42 am
