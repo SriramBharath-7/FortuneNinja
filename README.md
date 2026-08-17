@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You become what you believe. – Oprah Winfrey"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Encrypt sensitive emails using tools like PGP.
+Review your app permissions frequently.
 
 🧠 Challenge of the Day:
-Read a bug bounty report from HackerOne.
+Explore how cookies can be abused.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/8/2026, 7:18:06 am
+🕒 Last updated: 17/8/2026, 7:16:04 am
