@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
 
 🛡️ Cyber Tip:
-Review your app permissions frequently.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Explore how cookies can be abused.
+Read an article on the difference between viruses and worms.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/8/2026, 7:16:04 am
+🕒 Last updated: 18/8/2026, 7:10:51 am
