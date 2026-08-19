@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success usually comes to those who are too busy to be looking for it. – Henry David Thoreau"
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Always lock your screen when stepping away.
+Keep copies of important credentials offline.
 
 🧠 Challenge of the Day:
-Read an article on the difference between viruses and worms.
+Create a cyber resume (track your learning progress).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/8/2026, 7:10:51 am
+🕒 Last updated: 19/8/2026, 7:12:48 am
