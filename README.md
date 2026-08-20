@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"Change the world by being yourself. – Amy Poehler"
 
 🛡️ Cyber Tip:
-Keep copies of important credentials offline.
+Secure your IoT devices with custom passwords.
 
 🧠 Challenge of the Day:
-Create a cyber resume (track your learning progress).
+Understand what rootkits are.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/8/2026, 7:12:48 am
+🕒 Last updated: 20/8/2026, 7:11:41 am
