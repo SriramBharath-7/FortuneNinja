@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Change the world by being yourself. – Amy Poehler"
+"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Understand what rootkits are.
+Learn what an IP address is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/8/2026, 7:11:41 am
+🕒 Last updated: 21/8/2026, 7:16:54 am
