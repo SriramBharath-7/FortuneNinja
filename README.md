@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Keep your face always toward the sunshine—and shadows will fall behind you. – Walt Whitman"
+"A year from now you may wish you had started today. – Karen Lamb"
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Use strong, unique passwords for every account.
 
 🧠 Challenge of the Day:
-Learn what an IP address is.
+Learn how to use a secure email provider.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/8/2026, 7:16:54 am
+🕒 Last updated: 22/8/2026, 7:10:08 am
