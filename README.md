@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"A year from now you may wish you had started today. – Karen Lamb"
+"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Use strong, unique passwords for every account.
+Use a separate device/account for experimenting or testing.
 
 🧠 Challenge of the Day:
-Learn how to use a secure email provider.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/8/2026, 7:10:08 am
+🕒 Last updated: 23/8/2026, 7:19:58 am
