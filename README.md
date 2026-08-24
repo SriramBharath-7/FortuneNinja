@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"
+"Little things make big days."
 
 🛡️ Cyber Tip:
-Use a separate device/account for experimenting or testing.
+Don’t accept random Facebook/LinkedIn requests.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Set up a local server and try accessing it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/8/2026, 7:19:58 am
+🕒 Last updated: 24/8/2026, 7:17:38 am
