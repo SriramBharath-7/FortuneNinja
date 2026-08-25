@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"Do what you can, with what you have, where you are. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Don’t accept random Facebook/LinkedIn requests.
+Don’t install random APK files on Android devices.
 
 🧠 Challenge of the Day:
-Set up a local server and try accessing it.
+Track your learning in Notion or Obsidian.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/8/2026, 7:17:38 am
+🕒 Last updated: 25/8/2026, 7:12:15 am
