@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do what you can, with what you have, where you are. – Theodore Roosevelt"
+"The best security tool is a curious mind."
 
 🛡️ Cyber Tip:
-Don’t install random APK files on Android devices.
+Don’t blindly open attachments, even if they seem safe.
 
 🧠 Challenge of the Day:
-Track your learning in Notion or Obsidian.
+Learn how to create a strong passphrase.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/8/2026, 7:12:15 am
+🕒 Last updated: 26/8/2026, 7:17:47 am
