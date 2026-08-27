@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best security tool is a curious mind."
+"A year from now you may wish you had started today. – Karen Lamb"
 
 🛡️ Cyber Tip:
-Don’t blindly open attachments, even if they seem safe.
+Shred physical documents containing sensitive info.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/8/2026, 7:17:47 am
+🕒 Last updated: 27/8/2026, 2:24:05 pm
