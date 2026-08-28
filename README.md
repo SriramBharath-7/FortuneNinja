@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"A year from now you may wish you had started today. – Karen Lamb"
+"One day or day one. You decide."
 
 🛡️ Cyber Tip:
-Shred physical documents containing sensitive info.
+Always lock your screen when stepping away.
 
 🧠 Challenge of the Day:
-Explore how companies handle incident response.
+Try running a virus scan on your computer.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/8/2026, 2:24:05 pm
+🕒 Last updated: 28/8/2026, 4:36:54 pm
