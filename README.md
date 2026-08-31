@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The quieter you become, the more you can hear."
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Always verify digital certificates of websites.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Explore open-source threat intel feeds.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/8/2026, 10:35:30 am
+🕒 Last updated: 31/8/2026, 10:42:56 am
