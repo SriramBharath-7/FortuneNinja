@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do one thing every day that scares you. – Eleanor Roosevelt"
+"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Take a beginner quiz on Cybersecurity on TryHackMe.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/8/2026, 10:42:56 am
+🕒 Last updated: 1/9/2026, 10:18:46 am
