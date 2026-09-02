@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.' – Mary Anne Radmacher"
+"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+Understand the risks of clicking shortened URLs.
 
 🧠 Challenge of the Day:
-Take a beginner quiz on Cybersecurity on TryHackMe.
+Find a cybersecurity roadmap to follow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/9/2026, 10:18:46 am
+🕒 Last updated: 2/9/2026, 9:39:38 am
