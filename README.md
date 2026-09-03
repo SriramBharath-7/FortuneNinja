@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"Don't wish it were easier. Wish you were better. – Jim Rohn"
 
 🛡️ Cyber Tip:
-Understand the risks of clicking shortened URLs.
+Use different emails for work, personal, and sign-ups.
 
 🧠 Challenge of the Day:
-Find a cybersecurity roadmap to follow.
+Create a GitHub repo to track your cyber learning.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/9/2026, 9:39:38 am
+🕒 Last updated: 3/9/2026, 9:36:18 am
