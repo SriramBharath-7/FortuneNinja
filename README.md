@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want to lift yourself up, lift up someone else. – Booker T. Washington"
+"The best security tool is a curious mind."
 
 🛡️ Cyber Tip:
-Keep your browser extensions to a minimum.
+Use VPNs when using public networks.
 
 🧠 Challenge of the Day:
-Understand what rootkits are.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/9/2026, 9:42:05 am
+🕒 Last updated: 5/9/2026, 9:38:25 am
