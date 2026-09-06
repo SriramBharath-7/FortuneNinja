@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The best security tool is a curious mind."
+"Go the extra mile. It’s never crowded."
 
 🛡️ Cyber Tip:
-Use VPNs when using public networks.
+Use sandbox environments for testing software.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Set up BitLocker or FileVault (disk encryption).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/9/2026, 9:38:25 am
+🕒 Last updated: 6/9/2026, 9:46:25 am
