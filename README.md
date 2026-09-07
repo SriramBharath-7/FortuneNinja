@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Go the extra mile. It’s never crowded."
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Use sandbox environments for testing software.
+Run occasional malware scans, even if you feel safe.
 
 🧠 Challenge of the Day:
-Set up BitLocker or FileVault (disk encryption).
+Research what a firewall is and how it works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/9/2026, 9:46:25 am
+🕒 Last updated: 7/9/2026, 9:45:38 am
