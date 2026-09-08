@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In cybersecurity, assume breach. Always."
+"If opportunity doesn’t knock, build a door. – Milton Berle"
 
 🛡️ Cyber Tip:
-Run occasional malware scans, even if you feel safe.
+Create strong security questions (not easily guessed).
 
 🧠 Challenge of the Day:
-Research what a firewall is and how it works.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/9/2026, 9:45:38 am
+🕒 Last updated: 8/9/2026, 9:46:15 am
