@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If opportunity doesn’t knock, build a door. – Milton Berle"
+"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
 
 🛡️ Cyber Tip:
-Create strong security questions (not easily guessed).
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Learn the difference between symmetric and asymmetric encryption.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 8/9/2026, 9:46:15 am
+🕒 Last updated: 9/9/2026, 9:52:04 am
