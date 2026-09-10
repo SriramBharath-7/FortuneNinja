@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+Avoid clicking ads on sketchy websites.
 
 🧠 Challenge of the Day:
-Learn the difference between symmetric and asymmetric encryption.
+Read about brute force vs dictionary attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 9/9/2026, 9:52:04 am
+🕒 Last updated: 10/9/2026, 9:49:15 am
