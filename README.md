@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The harder you work for something, the greater you’ll feel when you achieve it."
+"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Don’t install random APK files on Android devices.
 
 🧠 Challenge of the Day:
-Explore the OWASP Top 10 web vulnerabilities.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/9/2026, 9:48:42 am
+🕒 Last updated: 12/9/2026, 9:47:25 am
