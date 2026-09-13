@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Don’t install random APK files on Android devices.
+Monitor your digital footprint with search engines.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Create a cyber resume (track your learning progress).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/9/2026, 9:47:25 am
+🕒 Last updated: 13/9/2026, 10:00:34 am
