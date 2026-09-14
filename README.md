@@ -10,12 +10,12 @@
 "Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Monitor your digital footprint with search engines.
+Always verify digital certificates of websites.
 
 🧠 Challenge of the Day:
-Create a cyber resume (track your learning progress).
+Read about email spoofing.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/9/2026, 10:00:34 am
+🕒 Last updated: 14/9/2026, 10:06:45 am
