@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"Success is the sum of small efforts, repeated day-in and day-out. – Robert Collier"
 
 🛡️ Cyber Tip:
-Always verify digital certificates of websites.
+Educate yourself continuously on cybersecurity trends.
 
 🧠 Challenge of the Day:
-Read about email spoofing.
+Read about brute force vs dictionary attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/9/2026, 10:06:45 am
+🕒 Last updated: 15/9/2026, 10:07:15 am
