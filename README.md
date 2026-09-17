@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness is not something ready made. It comes from your own actions. – Dalai Lama"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Don't trust browser pop-ups asking for updates.
+Verify identity over another channel before trusting info.
 
 🧠 Challenge of the Day:
-Google 'What is a VPN tunnel?'
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/9/2026, 10:02:35 am
+🕒 Last updated: 17/9/2026, 10:08:06 am
