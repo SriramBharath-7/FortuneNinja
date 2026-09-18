@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"Make each day your masterpiece. – John Wooden"
 
 🛡️ Cyber Tip:
-Verify identity over another channel before trusting info.
+Stay off illegal streaming/download sites.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Research how biometrics are used in security.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/9/2026, 10:08:06 am
+🕒 Last updated: 18/9/2026, 9:53:18 am
