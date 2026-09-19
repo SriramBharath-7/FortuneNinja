@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Make each day your masterpiece. – John Wooden"
+"You must be the change you wish to see in the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Stay off illegal streaming/download sites.
+Shred physical documents containing sensitive info.
 
 🧠 Challenge of the Day:
-Research how biometrics are used in security.
+Write down your 1-month cyber learning plan.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/9/2026, 9:53:18 am
+🕒 Last updated: 19/9/2026, 9:50:22 am
