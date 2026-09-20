@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You must be the change you wish to see in the world. – Mahatma Gandhi"
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Shred physical documents containing sensitive info.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Write down your 1-month cyber learning plan.
+Watch a documentary or video about hacking (like Mr. Robot or Snowden).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/9/2026, 9:50:22 am
+🕒 Last updated: 20/9/2026, 10:08:54 am
