@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Disable unused Bluetooth and location services.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/9/2026, 10:08:54 am
+🕒 Last updated: 21/9/2026, 10:07:12 am
