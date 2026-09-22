@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In cybersecurity, assume breach. Always."
+"It’s going to be hard, but hard does not mean impossible."
 
 🛡️ Cyber Tip:
-Disable unused Bluetooth and location services.
+Regularly delete unused accounts.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Learn how bug bounty programs work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/9/2026, 10:07:12 am
+🕒 Last updated: 22/9/2026, 10:03:07 am
