@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s going to be hard, but hard does not mean impossible."
+"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
 
 🛡️ Cyber Tip:
-Regularly delete unused accounts.
+Create strong security questions (not easily guessed).
 
 🧠 Challenge of the Day:
-Learn how bug bounty programs work.
+Learn how to create a secure login flow.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/9/2026, 10:03:07 am
+🕒 Last updated: 23/9/2026, 9:59:30 am
