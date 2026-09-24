@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Life is 10% what happens to us and 90% how we react to it. – Charles R. Swindoll"
+"Hacking is not a crime, it's a mindset."
 
 🛡️ Cyber Tip:
-Create strong security questions (not easily guessed).
+Use antivirus and antimalware tools consistently.
 
 🧠 Challenge of the Day:
-Learn how to create a secure login flow.
+Install a password manager and create a strong master password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/9/2026, 9:59:30 am
+🕒 Last updated: 24/9/2026, 9:56:44 am
