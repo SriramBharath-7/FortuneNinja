@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hacking is not a crime, it's a mindset."
+"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
 
 🛡️ Cyber Tip:
-Use antivirus and antimalware tools consistently.
+Secure your IoT devices with custom passwords.
 
 🧠 Challenge of the Day:
-Install a password manager and create a strong master password.
+Change your router’s default password.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/9/2026, 9:56:44 am
+🕒 Last updated: 25/9/2026, 10:08:06 am
