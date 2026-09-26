@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Discipline is choosing between what you want now and what you want most. – Abraham Lincoln"
+"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Change your router’s default password.
+Sign up for HaveIBeenPwned and check if your email is in a data breach.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/9/2026, 10:08:06 am
+🕒 Last updated: 26/9/2026, 10:11:11 am
