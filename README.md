@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
+"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
 
 🛡️ Cyber Tip:
-Keep your browser extensions to a minimum.
+Enable remote wipe on your devices.
 
 🧠 Challenge of the Day:
-Sign up for HaveIBeenPwned and check if your email is in a data breach.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/9/2026, 10:11:11 am
+🕒 Last updated: 27/9/2026, 10:32:36 am
