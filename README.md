@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"
+"Great things never come from comfort zones."
 
 🛡️ Cyber Tip:
-Enable remote wipe on your devices.
+Secure your IoT devices with custom passwords.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Read about malware types: trojan, spyware, ransomware, etc.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/9/2026, 10:32:36 am
+🕒 Last updated: 28/9/2026, 10:34:01 am
