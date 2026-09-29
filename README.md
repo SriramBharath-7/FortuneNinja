@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Great things never come from comfort zones."
+"Don’t stop when you’re tired. Stop when you’re done."
 
 🛡️ Cyber Tip:
-Secure your IoT devices with custom passwords.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Read about malware types: trojan, spyware, ransomware, etc.
+Write a short blog on what you learned today.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/9/2026, 10:34:01 am
+🕒 Last updated: 29/9/2026, 10:58:22 am
