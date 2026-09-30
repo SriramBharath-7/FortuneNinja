@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Don’t stop when you’re tired. Stop when you’re done."
+"You miss 100% of the shots you don’t take. – Wayne Gretzky"
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Write a short blog on what you learned today.
+Read a real-world cybersecurity incident case study.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/9/2026, 10:58:22 am
+🕒 Last updated: 30/9/2026, 10:46:12 am
