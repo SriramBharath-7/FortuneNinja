@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You miss 100% of the shots you don’t take. – Wayne Gretzky"
+"Don’t watch the clock; do what it does. Keep going. – Sam Levenson"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Set parental controls on shared family devices.
 
 🧠 Challenge of the Day:
-Read a real-world cybersecurity incident case study.
+Read about ethical hacking vs black-hat hacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/9/2026, 10:46:12 am
+🕒 Last updated: 1/10/2026, 11:01:14 am
