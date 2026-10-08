@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Little things make big days."
+"It’s not whether you get knocked down, it’s whether you get up. – Vince Lombardi"
 
 🛡️ Cyber Tip:
-Avoid clicking ads on sketchy websites.
+Keep your browser extensions to a minimum.
 
 🧠 Challenge of the Day:
-Learn what a keylogger is and how to avoid it.
+Start learning basic Linux commands.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 7/10/2026, 11:06:57 am
+🕒 Last updated: 8/10/2026, 11:15:08 am
