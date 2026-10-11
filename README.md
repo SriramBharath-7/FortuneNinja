@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Everything you’ve ever wanted is on the other side of fear. – George Addair"
+"The quieter you become, the more you can hear."
 
 🛡️ Cyber Tip:
-Keep copies of important credentials offline.
+Never post screenshots of sensitive dashboards or tools.
 
 🧠 Challenge of the Day:
-Learn how to create a strong passphrase.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/10/2026, 11:02:30 am
+🕒 Last updated: 11/10/2026, 10:58:02 am
