@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The quieter you become, the more you can hear."
+"Don’t let yesterday take up too much of today. – Will Rogers"
 
 🛡️ Cyber Tip:
-Never post screenshots of sensitive dashboards or tools.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Research the use of firewalls in cloud environments.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/10/2026, 10:58:02 am
+🕒 Last updated: 12/10/2026, 11:08:42 am
