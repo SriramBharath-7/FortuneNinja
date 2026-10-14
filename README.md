@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Try to be a rainbow in someone’s cloud. – Maya Angelou"
+"Energy and persistence conquer all things. – Benjamin Franklin"
 
 🛡️ Cyber Tip:
-Stay informed about recent security threats.
+Never post screenshots of sensitive dashboards or tools.
 
 🧠 Challenge of the Day:
-Read about common phishing tactics.
+Install a Linux VM using VirtualBox.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/10/2026, 12:04:44 pm
+🕒 Last updated: 14/10/2026, 10:05:54 am
