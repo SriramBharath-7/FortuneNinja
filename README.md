@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Energy and persistence conquer all things. – Benjamin Franklin"
+"Do one thing every day that scares you. – Eleanor Roosevelt"
 
 🛡️ Cyber Tip:
-Never post screenshots of sensitive dashboards or tools.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Install a Linux VM using VirtualBox.
+Read about session hijacking.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/10/2026, 10:05:54 am
+🕒 Last updated: 15/10/2026, 9:48:16 am
