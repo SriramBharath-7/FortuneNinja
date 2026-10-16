@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do one thing every day that scares you. – Eleanor Roosevelt"
+"Act as if what you do makes a difference. It does. – William James"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Use browser profiles to separate work and personal.
 
 🧠 Challenge of the Day:
-Read about session hijacking.
+Read about penetration testing basics.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/10/2026, 9:48:16 am
+🕒 Last updated: 16/10/2026, 9:43:50 am
