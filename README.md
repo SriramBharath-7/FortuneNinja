@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Act as if what you do makes a difference. It does. – William James"
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Use browser profiles to separate work and personal.
+Log out from sessions when using shared devices.
 
 🧠 Challenge of the Day:
-Read about penetration testing basics.
+Learn the difference between symmetric and asymmetric encryption.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/10/2026, 9:43:50 am
+🕒 Last updated: 17/10/2026, 9:34:11 am
