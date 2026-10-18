@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"I am not a product of my circumstances. I am a product of my decisions. – Stephen Covey"
 
 🛡️ Cyber Tip:
-Log out from sessions when using shared devices.
+Use multi-layered security (firewall + antivirus + 2FA).
 
 🧠 Challenge of the Day:
-Learn the difference between symmetric and asymmetric encryption.
+Learn how to use a secure email provider.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/10/2026, 9:34:11 am
+🕒 Last updated: 18/10/2026, 9:41:52 am
