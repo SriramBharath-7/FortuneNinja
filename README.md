@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Wake up with determination. Go to bed with satisfaction."
+"A year from now you may wish you had started today. – Karen Lamb"
 
 🛡️ Cyber Tip:
-If something feels off, trust your instincts.
+Don’t use cracked or pirated tools—they’re often malware carriers.
 
 🧠 Challenge of the Day:
-Understand what data leakage is.
+Explore Google Dorking (theory only for now).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/10/2026, 9:50:36 am
+🕒 Last updated: 20/10/2026, 10:01:24 am
