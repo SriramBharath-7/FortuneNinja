@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"A year from now you may wish you had started today. – Karen Lamb"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Don’t use cracked or pirated tools—they’re often malware carriers.
+Disable macro settings in Microsoft Office.
 
 🧠 Challenge of the Day:
-Explore Google Dorking (theory only for now).
+Explore Nmap — just read its docs, don't install yet.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/10/2026, 10:01:24 am
+🕒 Last updated: 21/10/2026, 9:53:39 am
