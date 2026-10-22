@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"Hacking is not a crime, it's a mindset."
 
 🛡️ Cyber Tip:
-Disable macro settings in Microsoft Office.
+Never click on suspicious links in emails.
 
 🧠 Challenge of the Day:
-Explore Nmap — just read its docs, don't install yet.
+Explore how companies handle incident response.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/10/2026, 9:53:39 am
+🕒 Last updated: 22/10/2026, 9:52:46 am
