@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Hacking is not a crime, it's a mindset."
+"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
 
 🛡️ Cyber Tip:
-Never click on suspicious links in emails.
+Review account activity logs regularly.
 
 🧠 Challenge of the Day:
-Explore how companies handle incident response.
+Google 'How does a VPN work?' and take notes.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 22/10/2026, 9:52:46 am
+🕒 Last updated: 23/10/2026, 9:57:36 am
