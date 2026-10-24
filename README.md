@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You are never too old to set another goal or to dream a new dream. – C.S. Lewis"
+"Do what you can, with what you have, where you are. – Theodore Roosevelt"
 
 🛡️ Cyber Tip:
-Review account activity logs regularly.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Google 'How does a VPN work?' and take notes.
+Read about brute force vs dictionary attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/10/2026, 9:57:36 am
+🕒 Last updated: 24/10/2026, 9:47:49 am
