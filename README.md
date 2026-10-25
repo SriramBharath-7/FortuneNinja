@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do what you can, with what you have, where you are. – Theodore Roosevelt"
+"In the middle of every difficulty lies opportunity. – Albert Einstein"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Read about brute force vs dictionary attacks.
+Create a dummy email and explore spam emails safely.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/10/2026, 9:47:49 am
+🕒 Last updated: 25/10/2026, 9:51:29 am
