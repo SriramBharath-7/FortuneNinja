@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In the middle of every difficulty lies opportunity. – Albert Einstein"
+"The secret of getting ahead is getting started. – Mark Twain"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Avoid downloading files from untrusted sources.
 
 🧠 Challenge of the Day:
-Create a dummy email and explore spam emails safely.
+Practice using `whois` and `nslookup`.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/10/2026, 9:51:29 am
+🕒 Last updated: 26/10/2026, 9:54:44 am
