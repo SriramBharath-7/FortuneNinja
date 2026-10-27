@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The secret of getting ahead is getting started. – Mark Twain"
+"Be so good they can’t ignore you. – Steve Martin"
 
 🛡️ Cyber Tip:
-Avoid downloading files from untrusted sources.
+Use biometric authentication for additional security.
 
 🧠 Challenge of the Day:
-Practice using `whois` and `nslookup`.
+Read about malware types: trojan, spyware, ransomware, etc.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/10/2026, 9:54:44 am
+🕒 Last updated: 27/10/2026, 10:13:57 am
