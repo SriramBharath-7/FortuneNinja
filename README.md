@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Be so good they can’t ignore you. – Steve Martin"
+"Know your enemy and know yourself."
 
 🛡️ Cyber Tip:
-Use biometric authentication for additional security.
+Clear your browser cache and cookies regularly.
 
 🧠 Challenge of the Day:
-Read about malware types: trojan, spyware, ransomware, etc.
+Understand browser fingerprinting.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/10/2026, 10:13:57 am
+🕒 Last updated: 28/10/2026, 10:47:55 am
