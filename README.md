@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Know your enemy and know yourself."
+"A year from now you may wish you had started today. – Karen Lamb"
 
 🛡️ Cyber Tip:
-Clear your browser cache and cookies regularly.
+Configure privacy settings on all social platforms.
 
 🧠 Challenge of the Day:
-Understand browser fingerprinting.
+Create a GitHub repo to track your cyber learning.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 28/10/2026, 10:47:55 am
+🕒 Last updated: 29/10/2026, 10:58:32 am
