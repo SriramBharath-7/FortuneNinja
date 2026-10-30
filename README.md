@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"A year from now you may wish you had started today. – Karen Lamb"
+"Happiness depends upon ourselves. – Aristotle"
 
 🛡️ Cyber Tip:
-Configure privacy settings on all social platforms.
+Review your app permissions frequently.
 
 🧠 Challenge of the Day:
-Create a GitHub repo to track your cyber learning.
+Read a real-world cybersecurity incident case study.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 29/10/2026, 10:58:32 am
+🕒 Last updated: 30/10/2026, 10:58:30 am
