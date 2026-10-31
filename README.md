@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Happiness depends upon ourselves. – Aristotle"
+"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
 
 🛡️ Cyber Tip:
-Review your app permissions frequently.
+Check if your data is leaked using haveibeenpwned.com.
 
 🧠 Challenge of the Day:
-Read a real-world cybersecurity incident case study.
+Try disabling all unnecessary permissions on one app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 30/10/2026, 10:58:30 am
+🕒 Last updated: 31/10/2026, 10:44:53 am
