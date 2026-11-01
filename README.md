@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You don’t have to be great to start, but you have to start to be great. – Zig Ziglar"
+"The quieter you become, the more you can hear."
 
 🛡️ Cyber Tip:
-Check if your data is leaked using haveibeenpwned.com.
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Try disabling all unnecessary permissions on one app.
+Learn what a keylogger is and how to avoid it.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 31/10/2026, 10:44:53 am
+🕒 Last updated: 1/11/2026, 11:13:08 am
