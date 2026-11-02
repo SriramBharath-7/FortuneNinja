@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"The quieter you become, the more you can hear."
+"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+Avoid storing passwords in your browser.
 
 🧠 Challenge of the Day:
-Learn what a keylogger is and how to avoid it.
+Learn what social engineering is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 1/11/2026, 11:13:08 am
+🕒 Last updated: 2/11/2026, 11:11:30 am
