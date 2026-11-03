@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You’re braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"
+"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
 
 🛡️ Cyber Tip:
-Avoid storing passwords in your browser.
+Don’t blindly accept app permissions on install.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Understand the impact of zero-trust architecture.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 2/11/2026, 11:11:30 am
+🕒 Last updated: 3/11/2026, 11:52:19 am
