@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Don’t blindly accept app permissions on install.
+Be skeptical of 'too good to be true' online offers.
 
 🧠 Challenge of the Day:
-Understand the impact of zero-trust architecture.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 3/11/2026, 11:52:19 am
+🕒 Last updated: 4/11/2026, 11:26:06 am
