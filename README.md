@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Be skeptical of 'too good to be true' online offers.
+Verify identity over another channel before trusting info.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Learn how to use the `ping` and `tracert` command.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 4/11/2026, 11:26:06 am
+🕒 Last updated: 5/11/2026, 11:48:58 am
