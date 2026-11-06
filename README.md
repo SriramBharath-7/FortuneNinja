@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"In a gentle way, you can shake the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Verify identity over another channel before trusting info.
+Regularly delete unused accounts.
 
 🧠 Challenge of the Day:
-Learn how to use the `ping` and `tracert` command.
+Understand what the dark web is (just theory!).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 5/11/2026, 11:48:58 am
+🕒 Last updated: 6/11/2026, 11:43:20 am
