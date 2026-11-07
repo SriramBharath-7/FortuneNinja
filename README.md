@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In a gentle way, you can shake the world. – Mahatma Gandhi"
+"Dream big and dare to fail. – Norman Vaughan"
 
 🛡️ Cyber Tip:
-Regularly delete unused accounts.
+Be careful with what you copy-paste from the internet.
 
 🧠 Challenge of the Day:
-Understand what the dark web is (just theory!).
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 6/11/2026, 11:43:20 am
+🕒 Last updated: 7/11/2026, 11:11:07 am
