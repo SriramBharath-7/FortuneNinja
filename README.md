@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Peace begins with a smile. – Mother Teresa"
+"Change the world by being yourself. – Amy Poehler"
 
 🛡️ Cyber Tip:
-Securely erase hard drives before discarding.
+Don’t overshare your location online.
 
 🧠 Challenge of the Day:
-Watch a documentary or video about hacking (like Mr. Robot or Snowden).
+Watch a video explaining SQL Injection.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 10/11/2026, 12:28:28 pm
+🕒 Last updated: 11/11/2026, 11:20:23 am
