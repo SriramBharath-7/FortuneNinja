@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Change the world by being yourself. – Amy Poehler"
+"When you know better, you do better. – Maya Angelou"
 
 🛡️ Cyber Tip:
-Don’t overshare your location online.
+Don't reuse passwords across platforms.
 
 🧠 Challenge of the Day:
-Watch a video explaining SQL Injection.
+Learn about ransomware and famous attacks.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 11/11/2026, 11:20:23 am
+🕒 Last updated: 12/11/2026, 12:25:04 pm
