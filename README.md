@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"When you know better, you do better. – Maya Angelou"
+"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
 
 🛡️ Cyber Tip:
-Don't reuse passwords across platforms.
+Use a password manager to store your credentials securely.
 
 🧠 Challenge of the Day:
-Learn about ransomware and famous attacks.
+Create a simple mind map of cyber domains.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 12/11/2026, 12:25:04 pm
+🕒 Last updated: 13/11/2026, 11:47:10 am
