@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Sometimes we’re tested not to show our weaknesses, but to discover our strengths."
+"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
 
 🛡️ Cyber Tip:
-Use a password manager to store your credentials securely.
+Stay informed about recent security threats.
 
 🧠 Challenge of the Day:
-Create a simple mind map of cyber domains.
+Create a backup of your important files.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 13/11/2026, 11:47:10 am
+🕒 Last updated: 14/11/2026, 11:29:13 am
