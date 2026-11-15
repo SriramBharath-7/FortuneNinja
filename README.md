@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"If you want something you've never had, you must be willing to do something you've never done. – Thomas Jefferson"
+"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
 
 🛡️ Cyber Tip:
-Stay informed about recent security threats.
+Don’t allow all cookies by default on sites.
 
 🧠 Challenge of the Day:
-Create a backup of your important files.
+Watch a video about cybersecurity certifications.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 14/11/2026, 11:29:13 am
+🕒 Last updated: 15/11/2026, 11:31:33 am
