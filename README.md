@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You can’t cross the sea merely by standing and staring at the water. – Rabindranath Tagore"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Don’t allow all cookies by default on sites.
+Know how to recognize social engineering tactics.
 
 🧠 Challenge of the Day:
-Watch a video about cybersecurity certifications.
+Create a simple mind map of cyber domains.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 15/11/2026, 11:31:33 am
+🕒 Last updated: 16/11/2026, 11:31:05 am
