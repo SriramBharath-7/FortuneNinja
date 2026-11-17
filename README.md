@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"Dream big and dare to fail. – Norman Vaughan"
 
 🛡️ Cyber Tip:
-Know how to recognize social engineering tactics.
+Don’t blindly open attachments, even if they seem safe.
 
 🧠 Challenge of the Day:
-Create a simple mind map of cyber domains.
+Explore phishing simulation tools.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 16/11/2026, 11:31:05 am
+🕒 Last updated: 17/11/2026, 1:09:22 pm
