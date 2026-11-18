@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream big and dare to fail. – Norman Vaughan"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Don’t blindly open attachments, even if they seem safe.
+Don’t trust unfamiliar Bluetooth pairing requests.
 
 🧠 Challenge of the Day:
-Explore phishing simulation tools.
+Create your first threat model for a daily app.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 17/11/2026, 1:09:22 pm
+🕒 Last updated: 18/11/2026, 12:30:55 pm
