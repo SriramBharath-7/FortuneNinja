@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"Turn your wounds into wisdom. – Oprah Winfrey"
 
 🛡️ Cyber Tip:
-Don’t trust unfamiliar Bluetooth pairing requests.
+Keep your software and OS updated regularly.
 
 🧠 Challenge of the Day:
-Create your first threat model for a daily app.
+Watch a video about how phishing attacks work.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 18/11/2026, 12:30:55 pm
+🕒 Last updated: 19/11/2026, 12:31:17 pm
