@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Turn your wounds into wisdom. – Oprah Winfrey"
+"Limit your “always” and your “nevers.” – Amy Poehler"
 
 🛡️ Cyber Tip:
-Keep your software and OS updated regularly.
+Beware of free trial traps that auto-renew.
 
 🧠 Challenge of the Day:
-Watch a video about how phishing attacks work.
+Understand the role of a SIEM tool (Security Info Event Mgmt).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 19/11/2026, 12:31:17 pm
+🕒 Last updated: 20/11/2026, 12:24:15 pm
