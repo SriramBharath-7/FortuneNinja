@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Limit your “always” and your “nevers.” – Amy Poehler"
+"You must be the change you wish to see in the world. – Mahatma Gandhi"
 
 🛡️ Cyber Tip:
-Beware of free trial traps that auto-renew.
+Never click on suspicious links in emails.
 
 🧠 Challenge of the Day:
-Understand the role of a SIEM tool (Security Info Event Mgmt).
+Research how password hashing works.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 20/11/2026, 12:24:15 pm
+🕒 Last updated: 21/11/2026, 12:19:27 pm
