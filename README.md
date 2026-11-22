@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You must be the change you wish to see in the world. – Mahatma Gandhi"
+"Action is the foundational key to all success. – Pablo Picasso"
 
 🛡️ Cyber Tip:
-Never click on suspicious links in emails.
+Subscribe to cybersecurity newsletters.
 
 🧠 Challenge of the Day:
-Research how password hashing works.
+Google 'How does a VPN work?' and take notes.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 21/11/2026, 12:19:27 pm
+🕒 Last updated: 22/11/2026, 11:51:42 am
