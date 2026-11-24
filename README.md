@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Dream it. Wish it. Do it."
+"Do something today that your future self will thank you for."
 
 🛡️ Cyber Tip:
-Beware of free trial traps that auto-renew.
+Install a firewall on your system.
 
 🧠 Challenge of the Day:
-Learn what social engineering is.
+Understand the concept of 'defense in depth'.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 23/11/2026, 12:42:39 pm
+🕒 Last updated: 24/11/2026, 3:05:59 pm
