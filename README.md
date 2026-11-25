@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"Do something today that your future self will thank you for."
+"It does not matter how slowly you go as long as you do not stop. – Confucius"
 
 🛡️ Cyber Tip:
-Install a firewall on your system.
+Never post screenshots of sensitive dashboards or tools.
 
 🧠 Challenge of the Day:
-Understand the concept of 'defense in depth'.
+Understand what the dark web is (just theory!).
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 24/11/2026, 3:05:59 pm
+🕒 Last updated: 25/11/2026, 1:37:20 pm
