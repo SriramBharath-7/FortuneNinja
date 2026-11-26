@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"It does not matter how slowly you go as long as you do not stop. – Confucius"
+"In cybersecurity, assume breach. Always."
 
 🛡️ Cyber Tip:
-Never post screenshots of sensitive dashboards or tools.
+Never click on suspicious links in emails.
 
 🧠 Challenge of the Day:
-Understand what the dark web is (just theory!).
+Read a real-world cybersecurity incident case study.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 25/11/2026, 1:37:20 pm
+🕒 Last updated: 26/11/2026, 1:26:43 pm
