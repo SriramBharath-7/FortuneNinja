@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"In cybersecurity, assume breach. Always."
+"You didn’t come this far to only come this far."
 
 🛡️ Cyber Tip:
-Never click on suspicious links in emails.
+Enable full-disk encryption on laptops.
 
 🧠 Challenge of the Day:
-Read a real-world cybersecurity incident case study.
+Learn what a honeypot is in cybersecurity.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 26/11/2026, 1:26:43 pm
+🕒 Last updated: 27/11/2026, 1:28:09 pm
