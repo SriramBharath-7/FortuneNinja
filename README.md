@@ -7,15 +7,15 @@
 
 ```bash
 📜 Quote of the Day:
-"You didn’t come this far to only come this far."
+"Don’t wait. The time will never be just right. – Napoleon Hill"
 
 🛡️ Cyber Tip:
-Enable full-disk encryption on laptops.
+Use browser profiles to separate work and personal.
 
 🧠 Challenge of the Day:
-Learn what a honeypot is in cybersecurity.
+Learn what an IP address is.
 ```
 
 > 🧙‍♂️ Stay sharp, warrior. Return tomorrow for your next fortune.
 
-🕒 Last updated: 27/11/2026, 1:28:09 pm
+🕒 Last updated: 28/11/2026, 12:57:42 pm
